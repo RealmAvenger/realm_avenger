@@ -1,0 +1,3 @@
+20180822063000,Lightning_Bug,Arborstone,5
+20180822070000,Lightning_Bug,Arborstone,8
+20180822073000,Lightning_Bug,Arborstone,8

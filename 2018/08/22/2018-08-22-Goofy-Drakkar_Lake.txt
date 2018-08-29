@@ -1,0 +1,11 @@
+20180822080000,Goofy,Drakkar_Lake,5
+20180822083000,Goofy,Drakkar_Lake,10
+20180822090000,Goofy,Drakkar_Lake,10
+20180822093000,Goofy,Drakkar_Lake,11
+20180822100000,Goofy,Drakkar_Lake,13
+20180822110000,Goofy,Drakkar_Lake,16
+20180822112000,Goofy,Drakkar_Lake,16
+20180822113000,Goofy,Drakkar_Lake,21
+20180822113800,Goofy,Drakkar_Lake,23
+20180822114000,Goofy,Drakkar_Lake,23
+20180822115000,Goofy,Drakkar_Lake,26

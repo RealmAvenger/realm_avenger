@@ -1,0 +1,14 @@
+20180822063000,E'telekeli,Borlis_Pass,4
+20180822070000,E'telekeli,Borlis_Pass,8
+20180822073000,E'telekeli,Borlis_Pass,9
+20180822080000,E'telekeli,Borlis_Pass,13
+20180822083000,E'telekeli,Borlis_Pass,17
+20180822090000,E'telekeli,Borlis_Pass,19
+20180822093000,E'telekeli,Borlis_Pass,19
+20180822100000,E'telekeli,Borlis_Pass,22
+20180822110000,E'telekeli,Borlis_Pass,23
+20180822112000,E'telekeli,Borlis_Pass,29
+20180822113000,E'telekeli,Borlis_Pass,32
+20180822113800,E'telekeli,Borlis_Pass,32
+20180822114000,E'telekeli,Borlis_Pass,32
+20180822115000,E'telekeli,Borlis_Pass,32

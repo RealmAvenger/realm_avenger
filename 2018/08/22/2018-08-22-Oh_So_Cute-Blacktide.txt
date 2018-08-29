@@ -1,0 +1,7 @@
+20180822063000,Oh_So_Cute,Blacktide,1
+20180822070000,Oh_So_Cute,Blacktide,5
+20180822073000,Oh_So_Cute,Blacktide,7
+20180822080000,Oh_So_Cute,Blacktide,11
+20180822083000,Oh_So_Cute,Blacktide,12
+20180822090000,Oh_So_Cute,Blacktide,16
+20180822093000,Oh_So_Cute,Blacktide,16

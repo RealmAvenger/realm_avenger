@@ -1,0 +1,7 @@
+20180822063000,All_Action_Hero,Blackgate,1
+20180822070000,All_Action_Hero,Blackgate,4
+20180822073000,All_Action_Hero,Blackgate,4
+20180822080000,All_Action_Hero,Blackgate,5
+20180822083000,All_Action_Hero,Blackgate,6
+20180822090000,All_Action_Hero,Blackgate,11
+20180822093000,All_Action_Hero,Blackgate,17

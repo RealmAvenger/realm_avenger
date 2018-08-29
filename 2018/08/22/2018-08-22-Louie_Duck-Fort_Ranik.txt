@@ -1,0 +1,17 @@
+20180822140000,Louie_Duck,Fort_Ranik,5
+20180822142000,Louie_Duck,Fort_Ranik,10
+20180822143000,Louie_Duck,Fort_Ranik,12
+20180822144000,Louie_Duck,Fort_Ranik,13
+20180822145000,Louie_Duck,Fort_Ranik,13
+20180822150000,Louie_Duck,Fort_Ranik,17
+20180822150500,Louie_Duck,Fort_Ranik,22
+20180822151000,Louie_Duck,Fort_Ranik,28
+20180822151500,Louie_Duck,Fort_Ranik,31
+20180822152000,Louie_Duck,Fort_Ranik,32
+20180822152500,Louie_Duck,Fort_Ranik,32
+20180822153000,Louie_Duck,Fort_Ranik,32
+20180822153500,Louie_Duck,Fort_Ranik,32
+20180822154000,Louie_Duck,Fort_Ranik,32
+20180822154500,Louie_Duck,Fort_Ranik,38
+20180822155000,Louie_Duck,Fort_Ranik,44
+20180822155500,Louie_Duck,Fort_Ranik,44

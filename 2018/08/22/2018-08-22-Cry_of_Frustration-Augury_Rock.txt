@@ -1,0 +1,9 @@
+20180822090000,Cry_of_Frustration,Augury_Rock,2
+20180822093000,Cry_of_Frustration,Augury_Rock,4
+20180822100000,Cry_of_Frustration,Augury_Rock,4
+20180822110000,Cry_of_Frustration,Augury_Rock,5
+20180822112000,Cry_of_Frustration,Augury_Rock,8
+20180822113000,Cry_of_Frustration,Augury_Rock,8
+20180822113800,Cry_of_Frustration,Augury_Rock,8
+20180822114000,Cry_of_Frustration,Augury_Rock,11
+20180822115000,Cry_of_Frustration,Augury_Rock,12

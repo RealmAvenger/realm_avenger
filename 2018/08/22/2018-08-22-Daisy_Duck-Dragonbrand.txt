@@ -1,0 +1,11 @@
+20180822080000,Daisy_Duck,Dragonbrand,1
+20180822083000,Daisy_Duck,Dragonbrand,1
+20180822090000,Daisy_Duck,Dragonbrand,7
+20180822093000,Daisy_Duck,Dragonbrand,8
+20180822100000,Daisy_Duck,Dragonbrand,8
+20180822110000,Daisy_Duck,Dragonbrand,11
+20180822112000,Daisy_Duck,Dragonbrand,16
+20180822113000,Daisy_Duck,Dragonbrand,16
+20180822113800,Daisy_Duck,Dragonbrand,21
+20180822114000,Daisy_Duck,Dragonbrand,24
+20180822115000,Daisy_Duck,Dragonbrand,24

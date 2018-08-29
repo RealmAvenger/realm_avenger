@@ -1,0 +1,3 @@
+20180822063000,The_Commander,Baruch_Bay,6
+20180822070000,The_Commander,Baruch_Bay,8
+20180822073000,The_Commander,Baruch_Bay,8

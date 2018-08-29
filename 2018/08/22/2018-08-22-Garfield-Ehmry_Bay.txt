@@ -1,0 +1,11 @@
+20180822121000,Garfield,Ehmry_Bay,1
+20180822122001,Garfield,Ehmry_Bay,1
+20180822123000,Garfield,Ehmry_Bay,1
+20180822124000,Garfield,Ehmry_Bay,1
+20180822125000,Garfield,Ehmry_Bay,4
+20180822130000,Garfield,Ehmry_Bay,6
+20180822131000,Garfield,Ehmry_Bay,6
+20180822132000,Garfield,Ehmry_Bay,6
+20180822133000,Garfield,Ehmry_Bay,6
+20180822134000,Garfield,Ehmry_Bay,8
+20180822135000,Garfield,Ehmry_Bay,14

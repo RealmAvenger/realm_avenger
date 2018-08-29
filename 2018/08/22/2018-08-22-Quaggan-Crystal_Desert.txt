@@ -1,0 +1,14 @@
+20180822063000,Quaggan,Crystal_Desert,2
+20180822070000,Quaggan,Crystal_Desert,2
+20180822073000,Quaggan,Crystal_Desert,4
+20180822080000,Quaggan,Crystal_Desert,4
+20180822083000,Quaggan,Crystal_Desert,7
+20180822090000,Quaggan,Crystal_Desert,13
+20180822093000,Quaggan,Crystal_Desert,19
+20180822100000,Quaggan,Crystal_Desert,24
+20180822110000,Quaggan,Crystal_Desert,24
+20180822112000,Quaggan,Crystal_Desert,30
+20180822113000,Quaggan,Crystal_Desert,35
+20180822113800,Quaggan,Crystal_Desert,37
+20180822114000,Quaggan,Crystal_Desert,40
+20180822115000,Quaggan,Crystal_Desert,41
