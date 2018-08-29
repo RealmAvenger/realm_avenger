@@ -7,7 +7,7 @@ subtitle: 	"Tournament 34 Day 6"
 
 status:     "OPEN"
 listing:    "Y"
-loop_count: 0
+loop_count: 2
 type:       hour
 
 category:   tournaments
