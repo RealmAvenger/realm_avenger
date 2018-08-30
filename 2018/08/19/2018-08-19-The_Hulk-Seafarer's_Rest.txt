@@ -1,0 +1,15 @@
+20180819200500,The_Hulk,Seafarer's_Rest,6
+20180819201000,The_Hulk,Seafarer's_Rest,6
+20180819201500,The_Hulk,Seafarer's_Rest,11
+20180819202000,The_Hulk,Seafarer's_Rest,16
+20180819202500,The_Hulk,Seafarer's_Rest,17
+20180819203000,The_Hulk,Seafarer's_Rest,22
+20180819203500,The_Hulk,Seafarer's_Rest,25
+20180819204000,The_Hulk,Seafarer's_Rest,30
+20180819204500,The_Hulk,Seafarer's_Rest,34
+20180819205000,The_Hulk,Seafarer's_Rest,38
+20180819205500,The_Hulk,Seafarer's_Rest,38
+20180819210000,The_Hulk,Seafarer's_Rest,41
+20180819210500,The_Hulk,Seafarer's_Rest,43
+20180819211000,The_Hulk,Seafarer's_Rest,43
+20180819211500,The_Hulk,Seafarer's_Rest,46
