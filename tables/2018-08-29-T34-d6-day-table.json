@@ -1,8 +1,8 @@
 {
-"full_datetime": "Thursday 30 August 2018 09:52:49 UTC", 
+"full_datetime": "Thursday 30 August 2018 09:59:44 UTC", 
 "full_date": "Thursday 30 August 2018", 
-"datetime": "Thu 30 Aug 2018 09:52:49 UTC", 
-"timestamp": "20180830095249", 
+"datetime": "Thu 30 Aug 2018 09:59:44 UTC", 
+"timestamp": "20180830095944", 
 "YYYY": "2018", 
 "MM": "08", 
 "DD": "30", 
@@ -10,7 +10,6 @@
 "update_window": "-", 
 "update_number": "", 
 "update_frequency": "10", 
-"update_timestamp": "", 
 "tournament": {
   "year": "2018", 
   "week": "34", 
