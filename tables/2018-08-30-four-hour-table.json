@@ -1,8 +1,8 @@
 {
-"full_datetime": "Thursday 30 August 2018 06:30:11 UTC", 
+"full_datetime": "Thursday 30 August 2018 06:45:12 UTC", 
 "full_date": "Thursday 30 August 2018", 
-"datetime": "Thu 30 Aug 2018 06:30:11 UTC", 
-"timestamp": "20180830063011", 
+"datetime": "Thu 30 Aug 2018 06:45:12 UTC", 
+"timestamp": "20180830064512", 
 "YYYY": "2018", 
 "MM": "08", 
 "DD": "30", 
@@ -10,8 +10,8 @@
 "update_window": "-", 
 "update_number": "", 
 "update_frequency": "15", 
-"update_at": "06:30", 
-"update_timestamp": "06:45", 
+"update_at": "06:45", 
+"update_timestamp": "07:00", 
 "window_start": "03:00", 
 "window_stop": "07:00", 
 "tournament": {
@@ -41,7 +41,27 @@
   {"col": "COL8", "label": "07:00", "start": "Thu 30 Aug 2018 06:30:00 UTC", "stop": "Thu 30 Aug 2018 07:00:00 UTC"}
 ], 
 "entries": [
+  {"pos": "1", "name": "Booster Gold", "world": "Aurora Glade", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "5", "8p": "1", "8t": "", "total": "5"}, 
+  {"pos": "1", "name": "E'telekeli", "world": "Borlis Pass", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "5", "8p": "1", "8t": "", "total": "5"}, 
+  {"pos": "2", "name": "Flash", "world": "Aurora Glade", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "3", "8p": "2", "8t": "", "total": "3"}, 
+  {"pos": "2", "name": "Green Arrow", "world": "Aurora Glade", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "3", "8p": "2", "8t": "", "total": "3"}, 
+  {"pos": "2", "name": "Hal Jordan", "world": "Aurora Glade", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "3", "8p": "2", "8t": "", "total": "3"}, 
+  {"pos": "2", "name": "The Commander", "world": "Baruch Bay", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "3", "8p": "2", "8t": "", "total": "3"}, 
+  {"pos": "3", "name": "Bob the Dog", "world": "Yak's Bend", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "2", "8p": "3", "8t": "", "total": "2"}, 
+  {"pos": "3", "name": "Cry of Frustration", "world": "Augury Rock", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "2", "8p": "3", "8t": "", "total": "2"}, 
+  {"pos": "3", "name": "Green Lantern", "world": "Aurora Glade", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "2", "8p": "3", "8t": "", "total": "2"}, 
+  {"pos": "3", "name": "Quaggan", "world": "Crystal Desert", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "2", "8p": "3", "8t": "", "total": "2"}
 ],
 "commentary": [
+  {"comment": "1st place, with 5 kills in .5 hour of play is Booster Gold from Aurora Glade"},
+  {"comment": "1st place, with 5 kills in .5 hour of play is E'telekeli from Borlis Pass"},
+  {"comment": "2nd place, with 3 kills in .5 hour of play is Flash from Aurora Glade"},
+  {"comment": "2nd place, with 3 kills in .5 hour of play is Green Arrow from Aurora Glade"},
+  {"comment": "2nd place, with 3 kills in .5 hour of play is Hal Jordan from Aurora Glade"},
+  {"comment": "2nd place, with 3 kills in .5 hour of play is The Commander from Baruch Bay"},
+  {"comment": "3rd place, with 2 kills in .5 hour of play is Bob the Dog from Yak's Bend"},
+  {"comment": "3rd place, with 2 kills in .5 hour of play is Cry of Frustration from Augury Rock"},
+  {"comment": "3rd place, with 2 kills in .5 hour of play is Green Lantern from Aurora Glade"},
+  {"comment": "3rd place, with 2 kills in .5 hour of play is Quaggan from Crystal Desert"}
 ]
 }
