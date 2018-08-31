@@ -7,7 +7,7 @@ subtitle: 	"Fri 24 Aug 2018 18:00:00 UTC to Fri 31 Aug 2018 17:59:59 UTC"
 
 status:     "OPEN"
 listing:    "Y"
-loop_count: 0
+loop_count: 4
 type:       tournament
 
 category:   tournaments
