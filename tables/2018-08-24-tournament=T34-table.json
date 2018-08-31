@@ -1,0 +1,46 @@
+{
+"full_datetime": "Friday 31 August 2018 12:33:53 UTC", 
+"full_date": "Friday 31 August 2018", 
+"datetime": "Fri 31 Aug 2018 12:33:53 UTC", 
+"timestamp": "20180831123353", 
+"YYYY": "2018", 
+"MM": "08", 
+"DD": "31", 
+"julian_day": "243", 
+"update_window": "-", 
+"update_number": "", 
+"update_frequency": "60", 
+"update_at": "12:33", 
+"update_timestamp": "13:33", 
+"window_start": "18:00", 
+"window_stop": "17:59", 
+"tournament": {
+  "year": "2018", 
+  "week": "34", 
+  "day": "242", 
+  "day_number": "7", 
+  "day_results_table": "/tournaments/2018/08/31/results-table.html", 
+  "schedule": [
+    {"day": "1", "jday": "", "start": "Fri 24 Aug 2018 18:00:00 UTC", "stop": "Sat 25 Aug 2018 17:59:59 UTC"}, 
+    {"day": "2", "jday": "", "start": "Sat 25 Aug 2018 18:00:00 UTC", "stop": "Sun 26 Aug 2018 17:59:59 UTC"}, 
+    {"day": "3", "jday": "", "start": "Sun 26 Aug 2018 18:00:00 UTC", "stop": "Mon 27 Aug 2018 17:59:59 UTC"}, 
+    {"day": "4", "jday": "", "start": "Mon 27 Aug 2018 18:00:00 UTC", "stop": "Tue 28 Aug 2018 17:59:59 UTC"}, 
+    {"day": "5", "jday": "", "start": "Tue 28 Aug 2018 18:00:00 UTC", "stop": "Wed 29 Aug 2018 17:59:59 UTC"}, 
+    {"day": "6", "jday": "", "start": "Wed 29 Aug 2018 18:00:00 UTC", "stop": "Thu 30 Aug 2018 17:59:59 UTC"}, 
+    {"day": "7", "jday": "", "start": "Thu 30 Aug 2018 18:00:00 UTC", "stop": "Fri 31 Aug 2018 17:59:59 UTC"}
+  ], 
+},
+"columns": [
+  {"col": "COL1", "label": "day 1", "start": "Fri 24 Aug 2018 18:00:00 UTC", "stop": "Sat 25 Aug 2018 17:59:59 UTC"},
+  {"col": "COL2", "label": "day 2", "start": "Sat 25 Aug 2018 18:00:00 UTC", "stop": "Sun 26 Aug 2018 17:59:59 UTC"},
+  {"col": "COL3", "label": "day 3", "start": "Sun 26 Aug 2018 18:00:00 UTC", "stop": "Mon 27 Aug 2018 17:59:59 UTC"},
+  {"col": "COL4", "label": "day 4", "start": "Mon 27 Aug 2018 18:00:00 UTC", "stop": "Tue 28 Aug 2018 17:59:59 UTC"},
+  {"col": "COL5", "label": "day 5", "start": "Tue 28 Aug 2018 18:00:00 UTC", "stop": "Wed 29 Aug 2018 17:59:59 UTC"},
+  {"col": "COL6", "label": "day 6", "start": "Wed 29 Aug 2018 18:00:00 UTC", "stop": "Thu 30 Aug 2018 17:59:59 UTC"},
+  {"col": "COL7", "label": "day 7", "start": "Thu 30 Aug 2018 18:00:00 UTC", "stop": "Fri 31 Aug 2018 17:59:59 UTC"}
+], 
+"entries": [
+],
+"commentary": [
+]
+}
