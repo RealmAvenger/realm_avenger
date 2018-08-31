@@ -14,31 +14,31 @@ category:   tournaments
 
 ---
 <div class="table_header">
-  <span class="table_title">Tournament {{ site.data.2018-34-week-table.tournament.week }}</span><br>
-  <span class="table_subtitle">{{ site.data.2018-34-week-table.tournament.schedule[0].start }} to {{ site.data.2018-34-week-table.tournament.schedule[6].stop }}</span>  
+  <span class="table_title">{{ site.data.2018-08-24-tournament-34-table.tournament.week_post_title }}</span><br>
+  <span class="table_subtitle">{{ site.data.2018-08-24-tournament-34-table.tournament.week_post_subtitle }}</span>  
 </div>
 
 {% for i in (1..page.loop_count) %}
-<span class="table_nextupdate">as at {{ site.data.2018-34-week-table.update_at }}, next update {{ site.data.2018-34-week-table.update_timestamp }} UTC</span> 
+<span class="table_nextupdate">as at {{ site.data.2018-08-24-tournament-34-table.update_at }}, next update {{ site.data.2018-08-24-tournament-34-table.update_weekly_timestamp }} UTC</span> 
 <table class="week_table">
   <thead>
     <tr>
       <th>POS</th>
       <th class="AlignLeft">Name</th>
       <th class="AlignLeft">World</th>
-      <th><a class="hideDisplay">{{ site.data.2018-34-week-table.columns[0].label }}<span class="showDisplayOnHover">{{ site.data.2018-34-week-table.columns[0].start }} to {{ site.data.2018-34-week-table.columns[0].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-34-week-table.columns[1].label }}<span class="showDisplayOnHover">{{ site.data.2018-34-week-table.columns[1].start }} to {{ site.data.2018-34-week-table.columns[1].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-34-week-table.columns[2].label }}<span class="showDisplayOnHover">{{ site.data.2018-34-week-table.columns[2].start }} to {{ site.data.2018-34-week-table.columns[2].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-34-week-table.columns[3].label }}<span class="showDisplayOnHover">{{ site.data.2018-34-week-table.columns[3].start }} to {{ site.data.2018-34-week-table.columns[3].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-34-week-table.columns[4].label }}<span class="showDisplayOnHover">{{ site.data.2018-34-week-table.columns[4].start }} to {{ site.data.2018-34-week-table.columns[4].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-34-week-table.columns[5].label }}<span class="showDisplayOnHover">{{ site.data.2018-34-week-table.columns[5].start }} to {{ site.data.2018-34-week-table.columns[5].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-34-week-table.columns[6].label }}<span class="showDisplayOnHover">{{ site.data.2018-34-week-table.columns[6].start }} to {{ site.data.2018-34-week-table.columns[6].stop }}</span></a></th>
+      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[0].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[0].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[0].stop }}</span></a></th>
+      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[1].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[1].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[1].stop }}</span></a></th>
+      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[2].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[2].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[2].stop }}</span></a></th>
+      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[3].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[3].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[3].stop }}</span></a></th>
+      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[4].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[4].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[4].stop }}</span></a></th>
+      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[5].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[5].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[5].stop }}</span></a></th>
+      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[6].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[6].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[6].stop }}</span></a></th>
       <th>Total</th>
     </tr>
   </thead>
   {% assign offset = forloop.index0 | times: 20 %}
   <tbody>
-    {% for entry in site.data.2018-34-week-table.entries limit:20 offset:offset %}
+    {% for entry in site.data.2018-08-24-tournament-34-table.entries limit:20 offset:offset %}
       <tr>
         <td class="pl{{ entry.pos }}">{{ entry.pos }}</td>
         <td class="AlignLeft">{{ entry.name }}</td>
@@ -61,7 +61,7 @@ category:   tournaments
 <div class="commentary">
   <span class="commentary_title">Commentary</span>
   <ul>
-    {% for entry in site.data.2018-34-week-table.commentary %}
+    {% for entry in site.data.2018-08-24-tournament-34-table.commentary %}
     <li class="commentary_list">{{ entry.comment | escape }}</li>
     {% endfor %}
   </ul>
