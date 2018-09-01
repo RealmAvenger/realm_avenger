@@ -1,8 +1,8 @@
 {
-"full_datetime": "Saturday 01 September 2018 02:00:08 UTC", 
+"full_datetime": "Saturday 01 September 2018 02:10:28 UTC", 
 "full_date": "Saturday 01 September 2018", 
-"datetime": "Sat  1 Sep 2018 02:00:08 UTC", 
-"timestamp": "20180901020008", 
+"datetime": "Sat  1 Sep 2018 02:10:28 UTC", 
+"timestamp": "20180901021028", 
 "YYYY": "2018", 
 "MM": "09", 
 "DD": "01", 
@@ -10,8 +10,8 @@
 "update_window": "-", 
 "update_number": "", 
 "update_frequency": "15", 
-"update_at": "02:00", 
-"update_timestamp": "02:15", 
+"update_at": "02:10", 
+"update_timestamp": "02:25", 
 "window_start": "22:30", 
 "window_stop": "02:30", 
 "tournament": {
@@ -50,14 +50,14 @@
 ], 
 "entries": [
   {"pos": "1", "name": "Lightning Bug", "world": "Arborstone", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "11", "4p": "1", "4t": "", "5c": "2", "5p": "4", "5t": "", "6c": "6", "6p": "2", "6t": "", "7c": "8", "7p": "1", "7t": "", "8c": "", "8p": "", "8t": "", "total": "27"}, 
-  {"pos": "2", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "5", "4p": "3", "4t": "", "5c": "8", "5p": "1", "5t": "", "6c": "6", "6p": "2", "6t": "", "7c": "2", "7p": "3", "7t": "", "8c": "", "8p": "", "8t": "", "total": "21"}, 
-  {"pos": "3", "name": "Cry of Frustration", "world": "Augury Rock", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "6", "4p": "2", "4t": "", "5c": "4", "5p": "3", "5t": "", "6c": "5", "6p": "3", "6t": "", "7c": "3", "7p": "2", "7t": "", "8c": "", "8p": "", "8t": "", "total": "18"}, 
-  {"pos": "4", "name": "Shiny!", "world": "Anvil Rock", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "3", "4p": "4", "4t": "", "5c": "2", "5p": "4", "5t": "", "6c": "7", "6p": "1", "6t": "", "7c": "2", "7p": "3", "7t": "", "8c": "", "8p": "", "8t": "", "total": "14"}, 
-  {"pos": "5", "name": "Bob the Dog", "world": "Yak's Bend", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "3", "4p": "4", "4t": "", "5c": "7", "5p": "2", "5t": "", "6c": "3", "6p": "4", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "", "8p": "", "8t": "", "total": "13"}
+  {"pos": "2", "name": "Cry of Frustration", "world": "Augury Rock", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "6", "4p": "2", "4t": "", "5c": "4", "5p": "3", "5t": "", "6c": "5", "6p": "3", "6t": "", "7c": "3", "7p": "2", "7t": "", "8c": "5", "8p": "1", "8t": "", "total": "23"}, 
+  {"pos": "3", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "5", "4p": "3", "4t": "", "5c": "8", "5p": "1", "5t": "", "6c": "6", "6p": "2", "6t": "", "7c": "2", "7p": "3", "7t": "", "8c": "", "8p": "", "8t": "", "total": "21"}, 
+  {"pos": "4", "name": "Bob the Dog", "world": "Yak's Bend", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "3", "4p": "4", "4t": "", "5c": "7", "5p": "2", "5t": "", "6c": "3", "6p": "4", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "2", "8p": "2", "8t": "", "total": "15"}, 
+  {"pos": "5", "name": "Shiny!", "world": "Anvil Rock", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "3", "4p": "4", "4t": "", "5c": "2", "5p": "4", "5t": "", "6c": "7", "6p": "1", "6t": "", "7c": "2", "7p": "3", "7t": "", "8c": "", "8p": "", "8t": "", "total": "14"}
 ],
 "commentary": [
   {"comment": "1st place, with 27 kills in 2 hours of play is Lightning Bug from Arborstone"},
-  {"comment": "2nd place, with 21 kills in 2 hours of play is Skritt Forager from Abaddon's Mouth"},
-  {"comment": "3rd place, with 18 kills in 2 hours of play is Cry of Frustration from Augury Rock"}
+  {"comment": "2nd place, with 23 kills in 2.5 hours of play is Cry of Frustration from Augury Rock"},
+  {"comment": "3rd place, with 21 kills in 2 hours of play is Skritt Forager from Abaddon's Mouth"}
 ]
 }
