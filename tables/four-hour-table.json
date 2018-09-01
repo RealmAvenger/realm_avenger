@@ -1,8 +1,8 @@
 {
-"full_datetime": "Saturday 01 September 2018 00:00:12 UTC", 
+"full_datetime": "Saturday 01 September 2018 00:10:12 UTC", 
 "full_date": "Saturday 01 September 2018", 
-"datetime": "Sat  1 Sep 2018 00:00:12 UTC", 
-"timestamp": "20180901000012", 
+"datetime": "Sat  1 Sep 2018 00:10:12 UTC", 
+"timestamp": "20180901001012", 
 "YYYY": "2018", 
 "MM": "09", 
 "DD": "01", 
@@ -10,8 +10,8 @@
 "update_window": "-", 
 "update_number": "", 
 "update_frequency": "15", 
-"update_at": "00:00", 
-"update_timestamp": "00:15", 
+"update_at": "00:10", 
+"update_timestamp": "00:25", 
 "window_start": "20:30", 
 "window_stop": "00:30", 
 "tournament": {
@@ -49,7 +49,11 @@
   {"col": "COL8", "label": "00:30", "start": "Sat  1 Sep 2018 00:00:00 UTC", "stop": "Sat  1 Sep 2018 00:30:00 UTC"}
 ], 
 "entries": [
+  {"pos": "1", "name": "Lightning Bug", "world": "Arborstone", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "4", "8p": "1", "8t": "", "total": "4"}, 
+  {"pos": "2", "name": "Cry of Frustration", "world": "Augury Rock", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "8c": "2", "8p": "2", "8t": "", "total": "2"}
 ],
 "commentary": [
+  {"comment": "1st place, with 4 kills in .5 hour of play is Lightning Bug from Arborstone"},
+  {"comment": "2nd place, with 2 kills in .5 hour of play is Cry of Frustration from Augury Rock"}
 ]
 }
