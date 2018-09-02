@@ -21,6 +21,19 @@ category:   tournaments
 {% for i in (1..page.loop_count) %}
 <span class="table_nextupdate">as at {{ site.data.2018-08-31-tournament-35-table.update_at }}, next update {{ site.data.2018-08-31-tournament-35-table.update_weekly_timestamp }} UTC</span> 
 <table class="week_table">
+  <colgroup>
+    <col style="width:18px">
+    <col style="width:55px">
+    <col style="width:55px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:18px">
+  </colgroup>
   <thead>
     <tr>
       <th>POS</th>
