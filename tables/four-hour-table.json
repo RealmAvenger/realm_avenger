@@ -1,8 +1,8 @@
 {
-"full_datetime": "Sunday 02 September 2018 17:53:02 UTC", 
+"full_datetime": "Sunday 02 September 2018 17:55:10 UTC", 
 "full_date": "Sunday 02 September 2018", 
-"datetime": "Sun  2 Sep 2018 17:53:02 UTC", 
-"timestamp": "20180902175302", 
+"datetime": "Sun  2 Sep 2018 17:55:10 UTC", 
+"timestamp": "20180902175510", 
 "YYYY": "2018", 
 "MM": "09", 
 "DD": "02", 
@@ -10,8 +10,8 @@
 "update_window": "-", 
 "update_number": "", 
 "update_frequency": "5", 
-"update_at": "17:53", 
-"update_timestamp": "17:58", 
+"update_at": "17:55", 
+"update_timestamp": "18:00", 
 "update_window_start": "15:00", 
 "update_window_stop": "16:59", 
 "tournament": {
@@ -56,28 +56,29 @@
   {"col": "COL12", "label": "17:45", "start": "Sun  2 Sep 2018 17:45:00 UTC", "stop": "Sun  2 Sep 2018 17:59:59 UTC", "url": "/tournaments/2018/09/02/T35-d12-day-table.html"}
 ], 
 "entries": [
-  {"pos": "1", "name": "Barney Rubble", "world": "Gandara", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "5", "12p": "1", "total": "5"}, 
-  {"pos": "2", "name": "Louie Duck", "world": "Fort Ranik", "1c": "4", "1p": "1", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "4"}, 
-  {"pos": "2", "name": "Minnie Mouse", "world": "Ferguson's Crossing", "1c": "4", "1p": "1", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "4"}, 
-  {"pos": "2", "name": "Sylvester", "world": "Henge of Denravi", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "4", "12p": "2", "total": "4"}, 
-  {"pos": "2", "name": "Tasmanian Devil", "world": "Gunnar's Hold", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "4", "12p": "2", "total": "4"}, 
-  {"pos": "3", "name": "Bob the Dog", "world": "Yak's Bend", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "3", "12p": "3", "total": "3"}, 
-  {"pos": "3", "name": "Mario", "world": "Gate of Madness", "1c": "2", "1p": "3", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "1", "12p": "4", "total": "3"}, 
-  {"pos": "3", "name": "Spider Man", "world": "Eredon Terrace", "1c": "3", "1p": "2", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "3"}, 
-  {"pos": "3", "name": "Yogi Bear", "world": "Far Shiverpeaks", "1c": "3", "1p": "2", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "3"}, 
-  {"pos": "4", "name": "Starman", "world": "Blackgate", "1c": "2", "1p": "3", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "2"}, 
-  {"pos": "4", "name": "Superman", "world": "Blackgate", "1c": "2", "1p": "3", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "2"}, 
-  {"pos": "4", "name": "Ted Kord", "world": "Blackgate", "1c": "2", "1p": "3", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "2"}
+  {"pos": "1", "name": "Barney Rubble", "world": "Gandara", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "10", "12p": "1", "total": "10"}, 
+  {"pos": "2", "name": "Minnie Mouse", "world": "Ferguson's Crossing", "1c": "4", "1p": "1", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "5", "12p": "3", "total": "9"}, 
+  {"pos": "3", "name": "Tasmanian Devil", "world": "Gunnar's Hold", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "8", "12p": "2", "total": "8"}, 
+  {"pos": "4", "name": "Louie Duck", "world": "Fort Ranik", "1c": "4", "1p": "1", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "4"}, 
+  {"pos": "4", "name": "Nite Owl", "world": "Jade Sea", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "4", "12p": "4", "total": "4"}, 
+  {"pos": "4", "name": "Sylvester", "world": "Henge of Denravi", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "4", "12p": "4", "total": "4"}, 
+  {"pos": "4", "name": "We Are Bob", "world": "Yak's Bend", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "4", "12p": "4", "total": "4"}, 
+  {"pos": "5", "name": "Bob the Dog", "world": "Yak's Bend", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "3", "12p": "5", "total": "3"}, 
+  {"pos": "5", "name": "Fred Flintstone", "world": "Maguuma", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "3", "12p": "5", "total": "3"}, 
+  {"pos": "5", "name": "Homer", "world": "Yak's Bend", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "3", "12p": "5", "total": "3"}, 
+  {"pos": "5", "name": "Mario", "world": "Gate of Madness", "1c": "2", "1p": "3", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "1", "12p": "7", "total": "3"}, 
+  {"pos": "5", "name": "Spider Man", "world": "Eredon Terrace", "1c": "3", "1p": "2", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "3"}, 
+  {"pos": "5", "name": "Yogi Bear", "world": "Far Shiverpeaks", "1c": "3", "1p": "2", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "3"}, 
+  {"pos": "6", "name": "Huey Duck", "world": "Fissure of Woe", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "2", "12p": "6", "total": "2"}, 
+  {"pos": "6", "name": "Riker", "world": "Yak's Bend", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "2", "12p": "6", "total": "2"}, 
+  {"pos": "6", "name": "Starman", "world": "Blackgate", "1c": "2", "1p": "3", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "2"}, 
+  {"pos": "6", "name": "Superman", "world": "Blackgate", "1c": "2", "1p": "3", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "2"}, 
+  {"pos": "6", "name": "Ted Kord", "world": "Blackgate", "1c": "2", "1p": "3", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "2"}, 
+  {"pos": "7", "name": "Legion", "world": "Yak's Bend", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "1", "12p": "7", "total": "1"}
 ],
 "commentary": [
-  {"comment": "1st place, with 5 kills in  hours of play is Barney Rubble from Gandara"},
-  {"comment": "2nd place, with 4 kills in .5 hour of play is Louie Duck from Fort Ranik"},
-  {"comment": "2nd place, with 4 kills in .5 hour of play is Minnie Mouse from Ferguson's Crossing"},
-  {"comment": "2nd place, with 4 kills in  hours of play is Sylvester from Henge of Denravi"},
-  {"comment": "2nd place, with 4 kills in  hours of play is Tasmanian Devil from Gunnar's Hold"},
-  {"comment": "3rd place, with 3 kills in  hours of play is Bob the Dog from Yak's Bend"},
-  {"comment": "3rd place, with 3 kills in .5 hour of play is Mario from Gate of Madness"},
-  {"comment": "3rd place, with 3 kills in .5 hour of play is Spider Man from Eredon Terrace"},
-  {"comment": "3rd place, with 3 kills in .5 hour of play is Yogi Bear from Far Shiverpeaks"}
+  {"comment": "1st place, with 10 kills in  hours of play is Barney Rubble from Gandara"},
+  {"comment": "2nd place, with 9 kills in .5 hour of play is Minnie Mouse from Ferguson's Crossing"},
+  {"comment": "3rd place, with 8 kills in  hours of play is Tasmanian Devil from Gunnar's Hold"}
 ]
 }
