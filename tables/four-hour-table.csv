@@ -4,8 +4,8 @@
 4,J'onn_J'onzz,Aurora_Glade,,,,3,2,,6,6,,5,4,,8,4,,7,3,,2,5,,,,,31
 5,Hal_Jordan,Aurora_Glade,,,,3,2,,4,8,,7,2,,1,9,,4,6,,9,2,,,,,28
 5,Oh_So_Cute,Blacktide,,,,3,2,,7,5,,5,4,,7,5,,5,5,,1,6,,,,,28
-6,Quaggan,Crystal_Desert,,,,1,4,,4,8,,,,,4,7,,7,3,,6,3,,,,,22
-7,Mickey_Mouse,Devona's_Rest,,,,,,,,,,3,6,,11,2,,6,4,,,,,,,,20
+6,Mickey_Mouse,Devona's_Rest,,,,,,,,,,3,6,,11,2,,6,4,,,,,5,1,,25
+7,Quaggan,Crystal_Desert,,,,1,4,,4,8,,,,,4,7,,7,3,,6,3,,1,2,,23
 8,Cry_of_Frustration,Augury_Rock,,,,1,4,,5,7,,,,,5,6,,8,2,,,,,,,,19
 8,Janies_Gotta_Gun,Desolation,,,,,,,,,,6,3,,3,8,,8,2,,2,5,,,,,19
 9,E'telekeli,Borlis_Pass,,,,,,,,,,2,7,,5,6,,1,8,,10,1,,,,,18
@@ -21,3 +21,4 @@
 14,The_Commander,Baruch_Bay,,,,5,1,,,,,,,,,,,,,,,,,,,,5
 15,Darth_Maul,Aurora_Glade,,,,,,,4,8,,,,,,,,,,,,,,,,,4
 16,Green_Arrow,Aurora_Glade,,,,,,,1,9,,,,,,,,,,,,,,,,,1
+16,Oracle,Blackgate,,,,,,,,,,,,,,,,,,,,,,1,2,,1
