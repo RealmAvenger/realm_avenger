@@ -1,7 +1,7 @@
 ---
 layout:   table
 
-date: 		"2018-08-31 00:00:00"
+date: 		"2018-08-31 18:00:00"
 title: 		"Tournament 35"
 subtitle: 	"Fri 31 Aug 2018 18:00:00 UTC to Fri  7 Sep 2018 17:59:59 UTC"
 
