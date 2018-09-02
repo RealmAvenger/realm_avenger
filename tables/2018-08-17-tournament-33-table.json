@@ -49,7 +49,7 @@
 ], 
 "entries": [
   {"pos": "1", "name": "biot.4721", "world": "Gandara", "1c": "", "1p": "", "1t": "", "2c": "74", "2p": "8", "2t": "", "3c": "77", "3p": "1", "3t": "", "4c": "102", "4p": "1", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "69", "7p": "2", "7t": "", "total": "322"}, 
-  {"pos": "2", "name": "Bob the Dog", "world": "Yak's Bend", "1c": "", "1p": "", "1t": "", "2c": "122", "2p": "3", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "68", "4p": "2", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "19", "6p": "14", "6t": "", "7c": "", "7p": "", "7t": "", "total": "209"}, 
+  {"pos": "2", "name": "Bob the Dog", "world": "Yak's Bend", "1c": "", "1p": "", "1t": "", "2c": "123", "2p": "3", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "68", "4p": "2", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "19", "6p": "14", "6t": "", "7c": "", "7p": "", "7t": "", "total": "210"}, 
   {"pos": "3", "name": "Tasmanian Devil", "world": "Gunnar's Hold", "1c": "11", "1p": "3", "1t": "", "2c": "103", "2p": "5", "2t": "", "3c": "20", "3p": "11", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "37", "5p": "7", "5t": "", "6c": "1", "6p": "26", "6t": "", "7c": "", "7p": "", "7t": "", "total": "172"}, 
   {"pos": "4", "name": "Sylvester", "world": "Henge of Denravi", "1c": "9", "1p": "4", "1t": "", "2c": "130", "2p": "1", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "6", "4p": "20", "4t": "", "5c": "26", "5p": "9", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "total": "171"}, 
   {"pos": "5", "name": "Mario", "world": "Gate of Madness", "1c": "18", "1p": "1", "1t": "", "2c": "103", "2p": "5", "2t": "", "3c": "1", "3p": "15", "3t": "", "4c": "23", "4p": "8", "4t": "", "5c": "25", "5p": "10", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "total": "170"}, 
@@ -127,7 +127,7 @@
 ],
 "commentary": [
   {"comment": "1st place, with 322 kills is biot.4721 from Gandara"},
-  {"comment": "2nd place, with 209 kills is Bob the Dog from Yak's Bend"},
+  {"comment": "2nd place, with 210 kills is Bob the Dog from Yak's Bend"},
   {"comment": "3rd place, with 172 kills is Tasmanian Devil from Gunnar's Hold"},
   {"comment": "Sylvester from Henge of Denravi killed 130 in one day!"}
 ]
