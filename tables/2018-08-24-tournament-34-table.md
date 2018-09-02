@@ -21,18 +21,31 @@ category:   tournaments
 {% for i in (1..page.loop_count) %}
 <br>
 <table class="week_table">
+  <colgroup>
+    <col style="width:18px">
+    <col style="width:55px">
+    <col style="width:55px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:14px">
+    <col style="width:18px">
+  </colgroup>
   <thead>
     <tr>
       <th>POS</th>
       <th class="AlignLeft">Name</th>
       <th class="AlignLeft">World</th>
-      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[0].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[0].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[0].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[1].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[1].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[1].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[2].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[2].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[2].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[3].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[3].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[3].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[4].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[4].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[4].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[5].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[5].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[5].stop }}</span></a></th>
-      <th><a class="hideDisplay">{{ site.data.2018-08-24-tournament-34-table.columns[6].label }}<span class="showDisplayOnHover">{{ site.data.2018-08-24-tournament-34-table.columns[6].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[6].stop }}</span></a></th>
+      <th><div class="label"><a href="{{ site.data.2018-08-24-tournament-34-table.columns[0].url }}">{{ site.data.2018-08-24-tournament-34-table.columns[0].label }}</a><p class="onhover">{{ site.data.2018-08-24-tournament-34-table.columns[0].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[0].stop }}</p></div>​</th>
+      <th><div class="label"><a href="{{ site.data.2018-08-24-tournament-34-table.columns[1].url }}">{{ site.data.2018-08-24-tournament-34-table.columns[1].label }}</a><p class="onhover">{{ site.data.2018-08-24-tournament-34-table.columns[1].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[1].stop }}</p></div>​</th>
+      <th><div class="label"><a href="{{ site.data.2018-08-24-tournament-34-table.columns[2].url }}">{{ site.data.2018-08-24-tournament-34-table.columns[2].label }}</a><p class="onhover">{{ site.data.2018-08-24-tournament-34-table.columns[2].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[2].stop }}</p></div>​</th>
+      <th><div class="label"><a href="{{ site.data.2018-08-24-tournament-34-table.columns[3].url }}">{{ site.data.2018-08-24-tournament-34-table.columns[3].label }}</a><p class="onhover">{{ site.data.2018-08-24-tournament-34-table.columns[3].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[3].stop }}</p></div>​</th>
+      <th><div class="label"><a href="{{ site.data.2018-08-24-tournament-34-table.columns[4].url }}">{{ site.data.2018-08-24-tournament-34-table.columns[4].label }}</a><p class="onhover">{{ site.data.2018-08-24-tournament-34-table.columns[4].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[4].stop }}</p></div>​</th>
+      <th><div class="label"><a href="{{ site.data.2018-08-24-tournament-34-table.columns[5].url }}">{{ site.data.2018-08-24-tournament-34-table.columns[5].label }}</a><p class="onhover">{{ site.data.2018-08-24-tournament-34-table.columns[5].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[5].stop }}</p></div>​</th>
+      <th><div class="label"><a href="{{ site.data.2018-08-24-tournament-34-table.columns[6].url }}">{{ site.data.2018-08-24-tournament-34-table.columns[6].label }}</a><p class="onhover">{{ site.data.2018-08-24-tournament-34-table.columns[6].start }} to {{ site.data.2018-08-24-tournament-34-table.columns[6].stop }}</p></div>​</th>
       <th>Total</th>
     </tr>
   </thead>
@@ -66,3 +79,8 @@ category:   tournaments
     {% endfor %}
   </ul>
 </div>
+
+
+
+
+
