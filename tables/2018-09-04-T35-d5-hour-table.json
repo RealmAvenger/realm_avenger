@@ -1,8 +1,8 @@
 {
-"full_datetime": "Tuesday 04 September 2018 21:05:11 UTC", 
+"full_datetime": "Tuesday 04 September 2018 21:10:16 UTC", 
 "full_date": "Tuesday 04 September 2018", 
-"datetime": "Tue  4 Sep 2018 21:05:11 UTC", 
-"timestamp": "20180904210511", 
+"datetime": "Tue  4 Sep 2018 21:10:16 UTC", 
+"timestamp": "20180904211016", 
 "YYYY": "2018", 
 "MM": "09", 
 "DD": "04", 
@@ -10,8 +10,8 @@
 "update_window": "-", 
 "update_number": "", 
 "update_frequency": "5", 
-"update_at": "21:05", 
-"update_timestamp": "21:10", 
+"update_at": "21:10", 
+"update_timestamp": "21:15", 
 "update_window_start": "18:15", 
 "update_window_stop": "21:14", 
 "tournament": {
