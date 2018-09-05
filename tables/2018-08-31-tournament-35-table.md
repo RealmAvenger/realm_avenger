@@ -5,8 +5,8 @@ date: 		"2018-08-31 18:00:00"
 title: 		"Tournament 35"
 subtitle: 	"Fri 31 Aug 2018 18:00:00 UTC to Fri  7 Sep 2018 17:59:59 UTC"
 
-status:     "OPEN"
-listing:    "Y"
+status:     "status"
+listing:    "listing"
 loop_count: 4
 type:       tournament
 
@@ -19,7 +19,7 @@ category:   tournaments
 </div>
 
 {% for i in (1..page.loop_count) %}
-<span class="table_nextupdate">as at {{ site.data.2018-08-31-tournament-35-table.update_at }}, next update {{ site.data.2018-08-31-tournament-35-table.update_weekly_timestamp }} UTC</span> 
+<br>
 <table class="week_table">
   <colgroup>
     <col style="width:18px">
