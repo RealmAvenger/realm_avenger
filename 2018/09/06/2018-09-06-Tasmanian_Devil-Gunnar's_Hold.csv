@@ -9,6 +9,7 @@
 20180906144502,Tasmanian_Devil,Gunnar's_Hold,1892
 20180906145004,Tasmanian_Devil,Gunnar's_Hold,1896
 20180906145502,Tasmanian_Devil,Gunnar's_Hold,1903
+<<<<<<< HEAD
 20180906184501,Tasmanian_Devil,Gunnar's_Hold,1907
 20180906185017,Tasmanian_Devil,Gunnar's_Hold,1915
 20180906185525,Tasmanian_Devil,Gunnar's_Hold,1922
@@ -16,3 +17,33 @@
 20180906190501,Tasmanian_Devil,Gunnar's_Hold,1937
 20180906191002,Tasmanian_Devil,Gunnar's_Hold,1943
 20180906191512,Tasmanian_Devil,Gunnar's_Hold,1950
+||||||| merged common ancestors
+=======
+20180906150002,Tasmanian_Devil,Gunnar's_Hold,1905
+20180906150504,Tasmanian_Devil,Gunnar's_Hold,1908
+20180906151003,Tasmanian_Devil,Gunnar's_Hold,1910
+20180906151502,Tasmanian_Devil,Gunnar's_Hold,1913
+20180906152442,Tasmanian_Devil,Gunnar's_Hold,1915
+20180906152552,Tasmanian_Devil,Gunnar's_Hold,1922
+20180906152610,Tasmanian_Devil,Gunnar's_Hold,1927
+20180906152648,Tasmanian_Devil,Gunnar's_Hold,1932
+20180906152707,Tasmanian_Devil,Gunnar's_Hold,1934
+20180906160230,Tasmanian_Devil,Gunnar's_Hold,1940
+20180906160326,Tasmanian_Devil,Gunnar's_Hold,1943
+20180906164931,Tasmanian_Devil,Gunnar's_Hold,1951
+20180906165113,Tasmanian_Devil,Gunnar's_Hold,1951
+20180906165211,Tasmanian_Devil,Gunnar's_Hold,1954
+20180906165257,Tasmanian_Devil,Gunnar's_Hold,1954
+20180906165619,Tasmanian_Devil,Gunnar's_Hold,1958
+20180906165654,Tasmanian_Devil,Gunnar's_Hold,1958
+20180906165704,Tasmanian_Devil,Gunnar's_Hold,1964
+20180906170522,Tasmanian_Devil,Gunnar's_Hold,1968
+20180906190502,Tasmanian_Devil,Gunnar's_Hold,1975
+20180906191004,Tasmanian_Devil,Gunnar's_Hold,1977
+20180906191502,Tasmanian_Devil,Gunnar's_Hold,1979
+20180906192003,Tasmanian_Devil,Gunnar's_Hold,1981
+20180906192505,Tasmanian_Devil,Gunnar's_Hold,1989
+20180906193002,Tasmanian_Devil,Gunnar's_Hold,1996
+20180906194011,Tasmanian_Devil,Gunnar's_Hold,2004
+20180906194259,Tasmanian_Devil,Gunnar's_Hold,2004
+>>>>>>> f95c0abd339601d7d1e5ed75297545dc17d9a0c5

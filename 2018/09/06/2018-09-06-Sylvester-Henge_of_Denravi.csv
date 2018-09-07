@@ -9,6 +9,7 @@
 20180906144502,Sylvester,Henge_of_Denravi,1864
 20180906145004,Sylvester,Henge_of_Denravi,1872
 20180906145502,Sylvester,Henge_of_Denravi,1875
+<<<<<<< HEAD
 20180906184501,Sylvester,Henge_of_Denravi,1880
 20180906185017,Sylvester,Henge_of_Denravi,1882
 20180906185525,Sylvester,Henge_of_Denravi,1889
@@ -16,3 +17,33 @@
 20180906190501,Sylvester,Henge_of_Denravi,1895
 20180906191002,Sylvester,Henge_of_Denravi,1895
 20180906191512,Sylvester,Henge_of_Denravi,1899
+||||||| merged common ancestors
+=======
+20180906150002,Sylvester,Henge_of_Denravi,1875
+20180906150504,Sylvester,Henge_of_Denravi,1878
+20180906151003,Sylvester,Henge_of_Denravi,1878
+20180906151502,Sylvester,Henge_of_Denravi,1882
+20180906152442,Sylvester,Henge_of_Denravi,1885
+20180906152552,Sylvester,Henge_of_Denravi,1889
+20180906152610,Sylvester,Henge_of_Denravi,1892
+20180906152648,Sylvester,Henge_of_Denravi,1900
+20180906152707,Sylvester,Henge_of_Denravi,1905
+20180906160230,Sylvester,Henge_of_Denravi,1913
+20180906160326,Sylvester,Henge_of_Denravi,1921
+20180906164931,Sylvester,Henge_of_Denravi,1928
+20180906165113,Sylvester,Henge_of_Denravi,1933
+20180906165211,Sylvester,Henge_of_Denravi,1934
+20180906165257,Sylvester,Henge_of_Denravi,1938
+20180906165619,Sylvester,Henge_of_Denravi,1944
+20180906165654,Sylvester,Henge_of_Denravi,1945
+20180906165704,Sylvester,Henge_of_Denravi,1953
+20180906170522,Sylvester,Henge_of_Denravi,1961
+20180906190502,Sylvester,Henge_of_Denravi,1966
+20180906191004,Sylvester,Henge_of_Denravi,1973
+20180906191502,Sylvester,Henge_of_Denravi,1980
+20180906192003,Sylvester,Henge_of_Denravi,1983
+20180906192505,Sylvester,Henge_of_Denravi,1988
+20180906193002,Sylvester,Henge_of_Denravi,1994
+20180906194011,Sylvester,Henge_of_Denravi,2000
+20180906194259,Sylvester,Henge_of_Denravi,2001
+>>>>>>> f95c0abd339601d7d1e5ed75297545dc17d9a0c5
