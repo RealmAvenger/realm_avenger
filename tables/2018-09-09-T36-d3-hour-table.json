@@ -1,8 +1,14 @@
 {
 "full_datetime": "", 
+<<<<<<< HEAD
 "full_date": "Mon 10 Sep 15:05:15 UTC 2018", 
 "datetime": "2018-09-10 15:05:15", 
 "timestamp": "20180910150515", 
+=======
+"full_date": "Mon 10 Sep 14:40:23 UTC 2018", 
+"datetime": "2018-09-10 14:40:23", 
+"timestamp": "20180910144023", 
+>>>>>>> 88de8a7c5ca5f4ca8847666e6f6e90e739c0832d
 "daymonthyear": "Monday 10 September 2018", 
 "YYYY": "2018", 
 "MM": "09", 
@@ -11,10 +17,17 @@
 "update_window": "1500-1559", 
 "update_number": "", 
 "update_frequency": "05", 
+<<<<<<< HEAD
 "update_at": "15:05", 
 "update_timestamp": "15:10", 
 "update_window_start": "12:15", 
 "update_window_stop": "15:14", 
+=======
+"update_at": "14:40", 
+"update_timestamp": "14:45", 
+"update_window_start": "11:45", 
+"update_window_stop": "14:44", 
+>>>>>>> 88de8a7c5ca5f4ca8847666e6f6e90e739c0832d
 "tournament": {
   "tournament_year": "2018", 
   "tournament_week": "36", 
@@ -22,28 +35,29 @@
   "tournament_day_yyyy": "2018", 
   "tournament_day_mm": "09", 
   "tournament_day_dd": "09", 
-  "hour_filename": "/home/ldenken/gw2/realm_avenger/tables/2018-09-09-T36-d3-hour-table", 
-  "day_listing_title": "T36-d3 Sun  9 Sep 18:00:00 UTC 2018 to Mon 10 Sep 17:59:59 UTC 2018", 
+  "hour_filename": "/home/sg/gw2/realm_avenger/tables/2018-09-09-T36-d3-hour-table", 
+  "day_listing_title": "T36-d3 Sun Sep  9 18:00:00 UTC 2018 to Mon Sep 10 17:59:59 UTC 2018", 
   "day_post_title": "Tournament 36, Day 3", 
-  "day_post_subtitle": "Sun  9 Sep 18:00:00 UTC 2018 to Mon 10 Sep 17:59:59 UTC 2018", 
-  "day_filename": "/home/ldenken/gw2/realm_avenger/tables/2018-09-09-T36-d3-day-table", 
+  "day_post_subtitle": "Sun Sep  9 18:00:00 UTC 2018 to Mon Sep 10 17:59:59 UTC 2018", 
+  "day_filename": "/home/sg/gw2/realm_avenger/tables/2018-09-09-T36-d3-day-table", 
   "day_results_table_url": "/tournaments/2018/09/09/T36-d3-day-table.html", 
   "week_listing_title": "Tournament 36", 
   "week_post_title": "Tournament 36", 
-  "week_post_subtitle": "Fri  7 Sep 18:00:00 UTC 2018 to Fri 14 Sep 17:59:59 UTC 2018", 
-  "week_filename": "/home/ldenken/gw2/realm_avenger/tables/2018-09-07-tournament-36-table", 
+  "week_post_subtitle": "Fri Sep  7 18:00:00 UTC 2018 to Fri Sep 14 17:59:59 UTC 2018", 
+  "week_filename": "/home/sg/gw2/realm_avenger/tables/2018-09-07-tournament-36-table", 
   "week_results_table_url": "/tournaments/2018/09/07/tournament-36-table.html", 
   "schedule": [
-    {"day": "1", "start": "Fri  7 Sep 18:00:00 UTC 2018", "stop": "Sat  8 Sep 17:59:59 UTC 2018"}, 
-    {"day": "2", "start": "Sat  8 Sep 18:00:00 UTC 2018", "stop": "Sun  9 Sep 17:59:59 UTC 2018"}, 
-    {"day": "3", "start": "Sun  9 Sep 18:00:00 UTC 2018", "stop": "Mon 10 Sep 17:59:59 UTC 2018"}, 
-    {"day": "4", "start": "Mon 10 Sep 18:00:00 UTC 2018", "stop": "Tue 11 Sep 17:59:59 UTC 2018"}, 
-    {"day": "5", "start": "Tue 11 Sep 18:00:00 UTC 2018", "stop": "Wed 12 Sep 17:59:59 UTC 2018"}, 
-    {"day": "6", "start": "Wed 12 Sep 18:00:00 UTC 2018", "stop": "Thu 13 Sep 17:59:59 UTC 2018"}, 
-    {"day": "7", "start": "Thu 13 Sep 18:00:00 UTC 2018", "stop": "Fri 14 Sep 17:59:59 UTC 2018"}
+    {"day": "1", "start": "Fri Sep  7 18:00:00 UTC 2018", "stop": "Sat Sep  8 17:59:59 UTC 2018"}, 
+    {"day": "2", "start": "Sat Sep  8 18:00:00 UTC 2018", "stop": "Sun Sep  9 17:59:59 UTC 2018"}, 
+    {"day": "3", "start": "Sun Sep  9 18:00:00 UTC 2018", "stop": "Mon Sep 10 17:59:59 UTC 2018"}, 
+    {"day": "4", "start": "Mon Sep 10 18:00:00 UTC 2018", "stop": "Tue Sep 11 17:59:59 UTC 2018"}, 
+    {"day": "5", "start": "Tue Sep 11 18:00:00 UTC 2018", "stop": "Wed Sep 12 17:59:59 UTC 2018"}, 
+    {"day": "6", "start": "Wed Sep 12 18:00:00 UTC 2018", "stop": "Thu Sep 13 17:59:59 UTC 2018"}, 
+    {"day": "7", "start": "Thu Sep 13 18:00:00 UTC 2018", "stop": "Fri Sep 14 17:59:59 UTC 2018"}
   ], 
 },
 "columns": [
+<<<<<<< HEAD
   {"col": "COL1", "label": "12:15", "start": "Mon 10 Sep 12:15:00 UTC 2018", "stop": "Mon 10 Sep 12:29:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d1-day-table.html"},
   {"col": "COL2", "label": "12:30", "start": "Mon 10 Sep 12:30:00 UTC 2018", "stop": "Mon 10 Sep 12:44:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d2-day-table.html"},
   {"col": "COL3", "label": "12:45", "start": "Mon 10 Sep 12:45:00 UTC 2018", "stop": "Mon 10 Sep 12:59:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d3-day-table.html"},
@@ -80,5 +94,44 @@
   {"comment": "2nd place, with 110 kills in 4 hours of play is Starman from Blackgate"},
   {"comment": "3rd place, with 102 kills in 4 hours of play is Minnie Mouse from Ferguson's Crossing"},
   {"comment": "Goofy from Drakkar Lake killed 21 in 30 minutes!"}
+=======
+  {"col": "COL1", "label": "11:45", "start": "Mon Sep 10 11:45:00 UTC 2018", "stop": "Mon Sep 10 11:59:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d1-day-table.html"},
+  {"col": "COL2", "label": "12:00", "start": "Mon Sep 10 12:00:00 UTC 2018", "stop": "Mon Sep 10 12:14:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d2-day-table.html"},
+  {"col": "COL3", "label": "12:15", "start": "Mon Sep 10 12:15:00 UTC 2018", "stop": "Mon Sep 10 12:29:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d3-day-table.html"},
+  {"col": "COL4", "label": "12:30", "start": "Mon Sep 10 12:30:00 UTC 2018", "stop": "Mon Sep 10 12:44:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d4-day-table.html"},
+  {"col": "COL5", "label": "12:45", "start": "Mon Sep 10 12:45:00 UTC 2018", "stop": "Mon Sep 10 12:59:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d5-day-table.html"},
+  {"col": "COL6", "label": "13:00", "start": "Mon Sep 10 13:00:00 UTC 2018", "stop": "Mon Sep 10 13:14:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d6-day-table.html"},
+  {"col": "COL7", "label": "13:15", "start": "Mon Sep 10 13:15:00 UTC 2018", "stop": "Mon Sep 10 13:29:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d7-day-table.html"},
+  {"col": "COL8", "label": "13:30", "start": "Mon Sep 10 13:30:00 UTC 2018", "stop": "Mon Sep 10 13:44:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d8-day-table.html"},
+  {"col": "COL9", "label": "13:45", "start": "Mon Sep 10 13:45:00 UTC 2018", "stop": "Mon Sep 10 13:59:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d9-day-table.html"},
+  {"col": "COL10", "label": "14:00", "start": "Mon Sep 10 14:00:00 UTC 2018", "stop": "Mon Sep 10 14:14:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d10-day-table.html"},
+  {"col": "COL11", "label": "14:15", "start": "Mon Sep 10 14:15:00 UTC 2018", "stop": "Mon Sep 10 14:29:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d11-day-table.html"},
+  {"col": "COL12", "label": "14:30", "start": "Mon Sep 10 14:30:00 UTC 2018", "stop": "Mon Sep 10 14:44:59 UTC 2018", "url": "/tournaments/2018/09/10/T36-d12-day-table.html"}
+], 
+"entries": [
+  {"pos": "1", "name": "Oliver Queen", "world": "Blackgate", "1c": "7", "1p": "2", "2c": "13", "2p": "1", "3c": "19", "3p": "1", "4c": "14", "4p": "4", "5c": "17", "5p": "2", "6c": "6", "6p": "9", "7c": "17", "7p": "2", "8c": "12", "8p": "7", "9c": "16", "9p": "3", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "121"}, 
+  {"pos": "2", "name": "Starman", "world": "Blackgate", "1c": "", "1p": "", "2c": "7", "2p": "5", "3c": "19", "3p": "1", "4c": "14", "4p": "4", "5c": "13", "5p": "5", "6c": "10", "6p": "6", "7c": "15", "7p": "4", "8c": "16", "8p": "3", "9c": "6", "9p": "9", "10c": "9", "10p": "4", "11c": "", "11p": "", "12c": "8", "12p": "1", "total": "117"}, 
+  {"pos": "3", "name": "Minnie Mouse", "world": "Ferguson's Crossing", "1c": "", "1p": "", "2c": "12", "2p": "2", "3c": "9", "3p": "5", "4c": "12", "4p": "5", "5c": "15", "5p": "4", "6c": "14", "6p": "3", "7c": "12", "7p": "6", "8c": "15", "8p": "4", "9c": "11", "9p": "6", "10c": "10", "10p": "3", "11c": "", "11p": "", "12c": "5", "12p": "4", "total": "115"}, 
+  {"pos": "4", "name": "Nightwing", "world": "Blackgate", "1c": "7", "1p": "2", "2c": "13", "2p": "1", "3c": "1", "3p": "7", "4c": "20", "4p": "1", "5c": "16", "5p": "3", "6c": "11", "6p": "5", "7c": "19", "7p": "1", "8c": "12", "8p": "7", "9c": "15", "9p": "4", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "114"}, 
+  {"pos": "5", "name": "Spider Man", "world": "Eredon Terrace", "1c": "", "1p": "", "2c": "1", "2p": "7", "3c": "9", "3p": "5", "4c": "10", "4p": "6", "5c": "18", "5p": "1", "6c": "9", "6p": "7", "7c": "13", "7p": "5", "8c": "15", "8p": "4", "9c": "20", "9p": "2", "10c": "11", "10p": "2", "11c": "", "11p": "", "12c": "6", "12p": "3", "total": "112"}, 
+  {"pos": "6", "name": "Goofy", "world": "Drakkar Lake", "1c": "7", "1p": "2", "2c": "5", "2p": "6", "3c": "9", "3p": "5", "4c": "14", "4p": "4", "5c": "10", "5p": "6", "6c": "14", "6p": "3", "7c": "13", "7p": "5", "8c": "13", "8p": "6", "9c": "21", "9p": "1", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "106"}, 
+  {"pos": "7", "name": "Garfield", "world": "Ehmry Bay", "1c": "", "1p": "", "2c": "8", "2p": "4", "3c": "13", "3p": "2", "4c": "16", "4p": "3", "5c": "10", "5p": "6", "6c": "10", "6p": "6", "7c": "15", "7p": "4", "8c": "16", "8p": "3", "9c": "15", "9p": "4", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "103"}, 
+  {"pos": "8", "name": "Yogi Bear", "world": "Far Shiverpeaks", "1c": "", "1p": "", "2c": "9", "2p": "3", "3c": "7", "3p": "6", "4c": "6", "4p": "8", "5c": "9", "5p": "7", "6c": "11", "6p": "5", "7c": "15", "7p": "4", "8c": "22", "8p": "1", "9c": "12", "9p": "5", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "8", "12p": "1", "total": "99"}, 
+  {"pos": "9", "name": "Superman", "world": "Blackgate", "1c": "", "1p": "", "2c": "9", "2p": "3", "3c": "12", "3p": "3", "4c": "8", "4p": "7", "5c": "10", "5p": "6", "6c": "17", "6p": "2", "7c": "8", "7p": "8", "8c": "13", "8p": "6", "9c": "11", "9p": "6", "10c": "6", "10p": "7", "11c": "", "11p": "", "12c": "3", "12p": "6", "total": "97"}, 
+  {"pos": "10", "name": "Road Runner", "world": "Elona Reach", "1c": "", "1p": "", "2c": "8", "2p": "4", "3c": "13", "3p": "2", "4c": "17", "4p": "2", "5c": "17", "5p": "2", "6c": "18", "6p": "1", "7c": "13", "7p": "5", "8c": "3", "8p": "9", "9c": "7", "9p": "8", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "96"}, 
+  {"pos": "11", "name": "Bob the Dog", "world": "Yak's Bend", "1c": "4", "1p": "3", "2c": "8", "2p": "4", "3c": "10", "3p": "4", "4c": "8", "4p": "7", "5c": "4", "5p": "8", "6c": "11", "6p": "5", "7c": "7", "7p": "9", "8c": "10", "8p": "8", "9c": "11", "9p": "6", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "4", "12p": "5", "total": "77"}, 
+  {"pos": "12", "name": "Dewey Duck", "world": "Fort Aspenwood", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "14", "6p": "3", "7c": "16", "7p": "3", "8c": "19", "8p": "2", "9c": "10", "9p": "7", "10c": "8", "10p": "5", "11c": "", "11p": "", "12c": "8", "12p": "1", "total": "75"}, 
+  {"pos": "13", "name": "Huey Duck", "world": "Fissure of Woe", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "8", "6p": "8", "7c": "11", "7p": "7", "8c": "14", "8p": "5", "9c": "10", "9p": "7", "10c": "14", "10p": "1", "11c": "", "11p": "", "12c": "", "12p": "", "total": "57"}, 
+  {"pos": "14", "name": "Louie Duck", "world": "Fort Ranik", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "12", "6p": "4", "7c": "16", "7p": "3", "8c": "3", "8p": "9", "9c": "11", "9p": "6", "10c": "7", "10p": "6", "11c": "", "11p": "", "12c": "3", "12p": "6", "total": "52"}, 
+  {"pos": "15", "name": "Tasmanian Devil", "world": "Gunnar's Hold", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "6", "10p": "7", "11c": "", "11p": "", "12c": "7", "12p": "2", "total": "13"}, 
+  {"pos": "16", "name": "Mickey Mouse", "world": "Devona's Rest", "1c": "9", "1p": "1", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "9"}, 
+  {"pos": "17", "name": "Sylvester", "world": "Henge of Denravi", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "5", "10p": "8", "11c": "", "11p": "", "12c": "1", "12p": "7", "total": "6"}, 
+  {"pos": "18", "name": "Daisy Duck", "world": "Dragonbrand", "1c": "4", "1p": "3", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "4"}
+],
+"commentary": [
+  {"comment": "1st place, with 121 kills in 3 hours of play is Oliver Queen from Blackgate"},
+  {"comment": "2nd place, with 117 kills in 3 hours of play is Starman from Blackgate"},
+  {"comment": "3rd place, with 115 kills in 3 hours of play is Minnie Mouse from Ferguson's Crossing"}
+>>>>>>> 88de8a7c5ca5f4ca8847666e6f6e90e739c0832d
 ]
 }
