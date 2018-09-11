@@ -5,6 +5,8 @@ date: 		"2018-09-07 18:00:00"
 title: 		"Tournament 36"
 subtitle: 	"Fri  7 Sep 18:00:00 UTC 2018 to Fri 14 Sep 17:59:59 UTC 2018"
 
+excerpt:    "Guild Wars 2 (GW2), World vs. World (WvW) Realm Avenger achivement Tournament. \"Every Kill Counts\""
+
 status:     "OPEN"
 listing:    "Y"
 loop_count: 4
