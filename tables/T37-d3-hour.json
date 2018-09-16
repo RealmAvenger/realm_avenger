@@ -85,3 +85,12 @@
   {"pos": "24", "name": "Donald Duck", "world": "Kodash", "1c": "1", "1p": "9", "2c": "7", "2p": "5", "3c": "7", "3p": "7", "4c": "8", "4p": "4", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "23"}, 
   {"pos": "24", "name": "We Are Bob", "world": "Yak's Bend", "1c": "", "1p": "", "2c": "4", "2p": "8", "3c": "7", "3p": "7", "4c": "9", "4p": "3", "5c": "3", "5p": "8", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "23"}, 
   {"pos": "25", "name": "Maggie Simpson", "world": "Sorrow's Furnace", "1c": "7", "1p": "3", "2c": "1", "2p": "11", "3c": "7", "3p": "7", "4c": "2", "4p": "10", "5c": "5", "5p": "6", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "22"}, 
+  {"pos": "26", "name": "Homer", "world": "Yak's Bend", "1c": "3", "1p": "7", "2c": "7", "2p": "5", "3c": "2", "3p": "11", "4c": "4", "4p": "8", "5c": "5", "5p": "6", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "21"}, 
+  {"pos": "27", "name": "The Hulk", "world": "Seafarer's Rest", "1c": "3", "1p": "7", "2c": "2", "2p": "10", "3c": "7", "3p": "7", "4c": "3", "4p": "9", "5c": "5", "5p": "6", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "20"}
+],
+"commentary": [
+  {"comment": "1st place, with 90 kills in 4 hours of play is Elmer Fudd from Sea of Sorrows"},
+  {"comment": "2nd place, with 83 kills in 4 hours of play is Tim Drake from Underworld"},
+  {"comment": "3rd place, with 76 kills in 3.5 hours of play is Blue Beetle from Ruins of Surmia"}
+]
+}
