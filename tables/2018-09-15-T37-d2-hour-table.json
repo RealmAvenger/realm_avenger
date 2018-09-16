@@ -1,8 +1,8 @@
 {
 "full_datetime": "", 
-"full_date": "Sun 16 Sep 06:40:21 UTC 2018", 
-"datetime": "2018-09-16 06:40:21", 
-"timestamp": "20180916064021", 
+"full_date": "Sun 16 Sep 06:45:20 UTC 2018", 
+"datetime": "2018-09-16 06:45:20", 
+"timestamp": "20180916064520", 
 "daymonthyear": "Sunday 16 September 2018", 
 "YYYY": "2018", 
 "MM": "09", 
@@ -11,10 +11,10 @@
 "update_window": "0600-0659", 
 "update_number": "", 
 "update_frequency": "05", 
-"update_at": "06:40", 
-"update_timestamp": "06:45", 
-"update_window_start": "03:45", 
-"update_window_stop": "06:44", 
+"update_at": "06:45", 
+"update_timestamp": "06:50", 
+"update_window_start": "04:00", 
+"update_window_stop": "06:59", 
 "tournament": {
   "tournament_year": "2018", 
   "tournament_week": "37", 
@@ -44,29 +44,31 @@
   ], 
 },
 "columns": [
-  {"col": "COL1", "label": "03:45", "start": "Sun Sep 16 03:45:00 UTC 2018", "stop": "Sun Sep 16 03:59:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d1.html"},
-  {"col": "COL2", "label": "04:00", "start": "Sun Sep 16 04:00:00 UTC 2018", "stop": "Sun Sep 16 04:14:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d2.html"},
-  {"col": "COL3", "label": "04:15", "start": "Sun Sep 16 04:15:00 UTC 2018", "stop": "Sun Sep 16 04:29:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d3.html"},
-  {"col": "COL4", "label": "04:30", "start": "Sun Sep 16 04:30:00 UTC 2018", "stop": "Sun Sep 16 04:44:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d4.html"},
-  {"col": "COL5", "label": "04:45", "start": "Sun Sep 16 04:45:00 UTC 2018", "stop": "Sun Sep 16 04:59:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d5.html"},
-  {"col": "COL6", "label": "05:00", "start": "Sun Sep 16 05:00:00 UTC 2018", "stop": "Sun Sep 16 05:14:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d6.html"},
-  {"col": "COL7", "label": "05:15", "start": "Sun Sep 16 05:15:00 UTC 2018", "stop": "Sun Sep 16 05:29:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d7.html"},
-  {"col": "COL8", "label": "05:30", "start": "Sun Sep 16 05:30:00 UTC 2018", "stop": "Sun Sep 16 05:44:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d8.html"},
-  {"col": "COL9", "label": "05:45", "start": "Sun Sep 16 05:45:00 UTC 2018", "stop": "Sun Sep 16 05:59:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d9.html"},
-  {"col": "COL10", "label": "06:00", "start": "Sun Sep 16 06:00:00 UTC 2018", "stop": "Sun Sep 16 06:14:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d10.html"},
-  {"col": "COL11", "label": "06:15", "start": "Sun Sep 16 06:15:00 UTC 2018", "stop": "Sun Sep 16 06:29:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d11.html"},
-  {"col": "COL12", "label": "06:30", "start": "Sun Sep 16 06:30:00 UTC 2018", "stop": "Sun Sep 16 06:44:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d12.html"}
+  {"col": "COL1", "label": "04:00", "start": "Sun Sep 16 04:00:00 UTC 2018", "stop": "Sun Sep 16 04:14:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d1.html"},
+  {"col": "COL2", "label": "04:15", "start": "Sun Sep 16 04:15:00 UTC 2018", "stop": "Sun Sep 16 04:29:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d2.html"},
+  {"col": "COL3", "label": "04:30", "start": "Sun Sep 16 04:30:00 UTC 2018", "stop": "Sun Sep 16 04:44:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d3.html"},
+  {"col": "COL4", "label": "04:45", "start": "Sun Sep 16 04:45:00 UTC 2018", "stop": "Sun Sep 16 04:59:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d4.html"},
+  {"col": "COL5", "label": "05:00", "start": "Sun Sep 16 05:00:00 UTC 2018", "stop": "Sun Sep 16 05:14:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d5.html"},
+  {"col": "COL6", "label": "05:15", "start": "Sun Sep 16 05:15:00 UTC 2018", "stop": "Sun Sep 16 05:29:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d6.html"},
+  {"col": "COL7", "label": "05:30", "start": "Sun Sep 16 05:30:00 UTC 2018", "stop": "Sun Sep 16 05:44:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d7.html"},
+  {"col": "COL8", "label": "05:45", "start": "Sun Sep 16 05:45:00 UTC 2018", "stop": "Sun Sep 16 05:59:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d8.html"},
+  {"col": "COL9", "label": "06:00", "start": "Sun Sep 16 06:00:00 UTC 2018", "stop": "Sun Sep 16 06:14:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d9.html"},
+  {"col": "COL10", "label": "06:15", "start": "Sun Sep 16 06:15:00 UTC 2018", "stop": "Sun Sep 16 06:29:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d10.html"},
+  {"col": "COL11", "label": "06:30", "start": "Sun Sep 16 06:30:00 UTC 2018", "stop": "Sun Sep 16 06:44:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d11.html"},
+  {"col": "COL12", "label": "06:45", "start": "Sun Sep 16 06:45:00 UTC 2018", "stop": "Sun Sep 16 06:59:59 UTC 2018", "url": "/tournaments/2018/09/16/T37-d12.html"}
 ], 
 "entries": [
-  {"pos": "1", "name": "Shiny!", "world": "Anvil Rock", "1c": "", "1p": "", "2c": "3", "2p": "1", "3c": "4", "3p": "1", "4c": "5", "4p": "1", "5c": "3", "5p": "1", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "4", "8p": "1", "9c": "", "9p": "", "10c": "4", "10p": "2", "11c": "3", "11p": "4", "12c": "1", "12p": "4", "total": "27"}, 
-  {"pos": "2", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "4", "3p": "1", "4c": "", "4p": "", "5c": "1", "5p": "2", "6c": "2", "6p": "1", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "2", "10p": "3", "11c": "5", "11p": "2", "12c": "11", "12p": "1", "total": "25"}, 
-  {"pos": "3", "name": "Darth Maul", "world": "Aurora Glade", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "10", "10p": "1", "11c": "5", "11p": "2", "12c": "6", "12p": "2", "total": "21"}, 
-  {"pos": "4", "name": "Oh So Cute", "world": "Blacktide", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "2", "10p": "3", "11c": "11", "11p": "1", "12c": "4", "12p": "3", "total": "17"}, 
-  {"pos": "5", "name": "All Action Hero", "world": "Blackgate", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "1", "10p": "4", "11c": "4", "11p": "3", "12c": "11", "12p": "1", "total": "16"}
+  {"pos": "1", "name": "Shiny!", "world": "Anvil Rock", "1c": "", "1p": "", "2c": "4", "2p": "1", "3c": "5", "3p": "1", "4c": "3", "4p": "1", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "4", "7p": "1", "8c": "", "8p": "", "9c": "4", "9p": "2", "10c": "3", "10p": "4", "11c": "1", "11p": "4", "12c": "4", "12p": "1", "total": "28"}, 
+  {"pos": "1", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "", "1p": "", "2c": "4", "2p": "1", "3c": "", "3p": "", "4c": "1", "4p": "2", "5c": "2", "5p": "1", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "2", "9p": "3", "10c": "5", "10p": "2", "11c": "11", "11p": "1", "12c": "3", "12p": "2", "total": "28"}, 
+  {"pos": "2", "name": "Darth Maul", "world": "Aurora Glade", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "10", "9p": "1", "10c": "5", "10p": "2", "11c": "6", "11p": "2", "12c": "", "12p": "", "total": "21"}, 
+  {"pos": "2", "name": "Oh So Cute", "world": "Blacktide", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "2", "9p": "3", "10c": "11", "10p": "1", "11c": "4", "11p": "3", "12c": "4", "12p": "1", "total": "21"}, 
+  {"pos": "3", "name": "All Action Hero", "world": "Blackgate", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "1", "9p": "4", "10c": "4", "10p": "3", "11c": "11", "11p": "1", "12c": "", "12p": "", "total": "16"}
 ],
 "commentary": [
-  {"comment": "1st place, with 27 kills in 3 hours of play is Shiny! from Anvil Rock"},
-  {"comment": "2nd place, with 25 kills in 1.5 hours of play is Skritt Forager from Abaddon's Mouth"},
-  {"comment": "3rd place, with 21 kills in 1 hour of play is Darth Maul from Aurora Glade"}
+  {"comment": "1st place, with 28 kills in 2.5 hours of play is Shiny! from Anvil Rock"},
+  {"comment": "1st place, with 28 kills in 2.5 hours of play is Skritt Forager from Abaddon's Mouth"},
+  {"comment": "2nd place, with 21 kills in 1 hour of play is Darth Maul from Aurora Glade"},
+  {"comment": "2nd place, with 21 kills in 1 hour of play is Oh So Cute from Blacktide"},
+  {"comment": "3rd place, with 16 kills in 1 hour of play is All Action Hero from Blackgate"}
 ]
 }
