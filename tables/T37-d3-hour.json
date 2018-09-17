@@ -1,8 +1,8 @@
 {
 "FULLDATEtime": "", 
-"FULLDATE": "Mon 17 Sep 06:00:13 UTC 2018", 
-"datetime": "2018-09-17 06:00:13", 
-"timestamp": "20180917060013", 
+"FULLDATE": "Mon 17 Sep 06:05:09 UTC 2018", 
+"datetime": "2018-09-17 06:05:09", 
+"timestamp": "20180917060509", 
 "daymonthyear": "Monday 17 September 2018", 
 "YYYY": "", 
 "MM": "", 
@@ -11,8 +11,8 @@
 "update_window": "0600-0659", 
 "update_number": "01", 
 "update_frequency": "05", 
-"update_at": "06:00", 
-"update_timestamp": "06:05", 
+"update_at": "06:05", 
+"update_timestamp": "06:10", 
 "update_window_start": "03:15", 
 "update_window_stop": "06:14", 
 "tournament": {
@@ -55,11 +55,11 @@
   {"col": "COL12", "label": "06:00", "start": "Mon Sep 17 06:00:00 UTC 2018", "stop": "Mon Sep 17 06:14:59 UTC 2018", "url": ""}
 ], 
 "entries": [
-  {"pos": "1", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "1", "1p": "2", "2c": "5", "2p": "1", "3c": "4", "3p": "2", "4c": "6", "4p": "2", "5c": "8", "5p": "1", "6c": "6", "6p": "1", "7c": "11", "7p": "1", "8c": "7", "8p": "1", "9c": "8", "9p": "1", "10c": "9", "10p": "2", "11c": "9", "11p": "1", "12c": "", "12p": "", "total": "74"}, 
-  {"pos": "2", "name": "Shiny!", "world": "Anvil Rock", "1c": "9", "1p": "1", "2c": "1", "2p": "2", "3c": "7", "3p": "1", "4c": "9", "4p": "1", "5c": "6", "5p": "2", "6c": "4", "6p": "2", "7c": "7", "7p": "2", "8c": "4", "8p": "2", "9c": "4", "9p": "2", "10c": "13", "10p": "1", "11c": "4", "11p": "2", "12c": "5", "12p": "1", "total": "73"}
+  {"pos": "1", "name": "Shiny!", "world": "Anvil Rock", "1c": "9", "1p": "1", "2c": "1", "2p": "2", "3c": "7", "3p": "1", "4c": "9", "4p": "1", "5c": "6", "5p": "2", "6c": "4", "6p": "2", "7c": "7", "7p": "2", "8c": "4", "8p": "2", "9c": "4", "9p": "2", "10c": "13", "10p": "1", "11c": "4", "11p": "2", "12c": "10", "12p": "1", "total": "78"}, 
+  {"pos": "2", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "1", "1p": "2", "2c": "5", "2p": "1", "3c": "4", "3p": "2", "4c": "6", "4p": "2", "5c": "8", "5p": "1", "6c": "6", "6p": "1", "7c": "11", "7p": "1", "8c": "7", "8p": "1", "9c": "8", "9p": "1", "10c": "9", "10p": "2", "11c": "9", "11p": "1", "12c": "3", "12p": "2", "total": "77"}
 ],
 "commentary": [
-  {"comment": "1st place, with 74 kills in 4 hours of play is Skritt Forager from Abaddon's Mouth"},
-  {"comment": "2nd place, with 73 kills in 4 hours of play is Shiny! from Anvil Rock"}
+  {"comment": "1st place, with 78 kills in 4 hours of play is Shiny! from Anvil Rock"},
+  {"comment": "2nd place, with 77 kills in 4 hours of play is Skritt Forager from Abaddon's Mouth"}
 ]
 }
