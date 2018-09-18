@@ -1,8 +1,8 @@
 {
 "FULLDATEtime": "", 
-"FULLDATE": "Tue 18 Sep 01:15:11 UTC 2018", 
-"datetime": "2018-09-18 01:15:11", 
-"timestamp": "20180918011511", 
+"FULLDATE": "Tue 18 Sep 01:30:12 UTC 2018", 
+"datetime": "2018-09-18 01:30:12", 
+"timestamp": "20180918013012", 
 "daymonthyear": "Tuesday 18 September 2018", 
 "YYYY": "", 
 "MM": "", 
@@ -11,10 +11,10 @@
 "update_window": "0000-0559", 
 "update_number": "00", 
 "update_frequency": "15", 
-"update_at": "01:15", 
-"update_timestamp": "01:30", 
-"update_window_start": "22:30", 
-"update_window_stop": "01:29", 
+"update_at": "01:30", 
+"update_timestamp": "01:45", 
+"update_window_start": "22:45", 
+"update_window_stop": "01:44", 
 "tournament": {
   "tournament_year": "2018", 
   "tournament_week": "37", 
@@ -41,25 +41,25 @@
   ], 
 },
 "columns": [
-  {"col": "COL1", "label": "22:30", "start": "Mon Sep 17 22:30:00 UTC 2018", "stop": "Mon Sep 17 22:44:59 UTC 2018", "url": ""},
-  {"col": "COL2", "label": "22:45", "start": "Mon Sep 17 22:45:00 UTC 2018", "stop": "Mon Sep 17 22:59:59 UTC 2018", "url": ""},
-  {"col": "COL3", "label": "23:00", "start": "Mon Sep 17 23:00:00 UTC 2018", "stop": "Mon Sep 17 23:14:59 UTC 2018", "url": ""},
-  {"col": "COL4", "label": "23:15", "start": "Mon Sep 17 23:15:00 UTC 2018", "stop": "Mon Sep 17 23:29:59 UTC 2018", "url": ""},
-  {"col": "COL5", "label": "23:30", "start": "Mon Sep 17 23:30:00 UTC 2018", "stop": "Mon Sep 17 23:44:59 UTC 2018", "url": ""},
-  {"col": "COL6", "label": "23:45", "start": "Mon Sep 17 23:45:00 UTC 2018", "stop": "Mon Sep 17 23:59:59 UTC 2018", "url": ""},
-  {"col": "COL7", "label": "00:00", "start": "Tue Sep 18 00:00:00 UTC 2018", "stop": "Tue Sep 18 00:14:59 UTC 2018", "url": ""},
-  {"col": "COL8", "label": "00:15", "start": "Tue Sep 18 00:15:00 UTC 2018", "stop": "Tue Sep 18 00:29:59 UTC 2018", "url": ""},
-  {"col": "COL9", "label": "00:30", "start": "Tue Sep 18 00:30:00 UTC 2018", "stop": "Tue Sep 18 00:44:59 UTC 2018", "url": ""},
-  {"col": "COL10", "label": "00:45", "start": "Tue Sep 18 00:45:00 UTC 2018", "stop": "Tue Sep 18 00:59:59 UTC 2018", "url": ""},
-  {"col": "COL11", "label": "01:00", "start": "Tue Sep 18 01:00:00 UTC 2018", "stop": "Tue Sep 18 01:14:59 UTC 2018", "url": ""},
-  {"col": "COL12", "label": "01:15", "start": "Tue Sep 18 01:15:00 UTC 2018", "stop": "Tue Sep 18 01:29:59 UTC 2018", "url": ""}
+  {"col": "COL1", "label": "22:45", "start": "Mon Sep 17 22:45:00 UTC 2018", "stop": "Mon Sep 17 22:59:59 UTC 2018", "url": ""},
+  {"col": "COL2", "label": "23:00", "start": "Mon Sep 17 23:00:00 UTC 2018", "stop": "Mon Sep 17 23:14:59 UTC 2018", "url": ""},
+  {"col": "COL3", "label": "23:15", "start": "Mon Sep 17 23:15:00 UTC 2018", "stop": "Mon Sep 17 23:29:59 UTC 2018", "url": ""},
+  {"col": "COL4", "label": "23:30", "start": "Mon Sep 17 23:30:00 UTC 2018", "stop": "Mon Sep 17 23:44:59 UTC 2018", "url": ""},
+  {"col": "COL5", "label": "23:45", "start": "Mon Sep 17 23:45:00 UTC 2018", "stop": "Mon Sep 17 23:59:59 UTC 2018", "url": ""},
+  {"col": "COL6", "label": "00:00", "start": "Tue Sep 18 00:00:00 UTC 2018", "stop": "Tue Sep 18 00:14:59 UTC 2018", "url": ""},
+  {"col": "COL7", "label": "00:15", "start": "Tue Sep 18 00:15:00 UTC 2018", "stop": "Tue Sep 18 00:29:59 UTC 2018", "url": ""},
+  {"col": "COL8", "label": "00:30", "start": "Tue Sep 18 00:30:00 UTC 2018", "stop": "Tue Sep 18 00:44:59 UTC 2018", "url": ""},
+  {"col": "COL9", "label": "00:45", "start": "Tue Sep 18 00:45:00 UTC 2018", "stop": "Tue Sep 18 00:59:59 UTC 2018", "url": ""},
+  {"col": "COL10", "label": "01:00", "start": "Tue Sep 18 01:00:00 UTC 2018", "stop": "Tue Sep 18 01:14:59 UTC 2018", "url": ""},
+  {"col": "COL11", "label": "01:15", "start": "Tue Sep 18 01:15:00 UTC 2018", "stop": "Tue Sep 18 01:29:59 UTC 2018", "url": ""},
+  {"col": "COL12", "label": "01:30", "start": "Tue Sep 18 01:30:00 UTC 2018", "stop": "Tue Sep 18 01:44:59 UTC 2018", "url": ""}
 ], 
 "entries": [
-  {"pos": "1", "name": "Shiny!", "world": "Anvil Rock", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "4", "7p": "1", "8c": "1", "8p": "1", "9c": "12", "9p": "1", "10c": "", "10p": "", "11c": "9", "11p": "1", "12c": "", "12p": "", "total": "26"}, 
-  {"pos": "2", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "4", "7p": "1", "8c": "", "8p": "", "9c": "9", "9p": "2", "10c": "9", "10p": "1", "11c": "", "11p": "", "12c": "", "12p": "", "total": "22"}
+  {"pos": "1", "name": "Shiny!", "world": "Anvil Rock", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "4", "6p": "1", "7c": "1", "7p": "1", "8c": "12", "8p": "1", "9c": "", "9p": "", "10c": "9", "10p": "1", "11c": "11", "11p": "1", "12c": "", "12p": "", "total": "37"}, 
+  {"pos": "2", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "4", "6p": "1", "7c": "", "7p": "", "8c": "9", "8p": "2", "9c": "9", "9p": "1", "10c": "", "10p": "", "11c": "3", "11p": "2", "12c": "", "12p": "", "total": "25"}
 ],
 "commentary": [
-  {"comment": "1st place, with 26 kills in 1.5 hours of play is Shiny! from Anvil Rock"},
-  {"comment": "2nd place, with 22 kills in 1 hour of play is Skritt Forager from Abaddon's Mouth"}
+  {"comment": "1st place, with 37 kills in 2 hours of play is Shiny! from Anvil Rock"},
+  {"comment": "2nd place, with 25 kills in 1 hour of play is Skritt Forager from Abaddon's Mouth"}
 ]
 }
