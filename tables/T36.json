@@ -5,32 +5,32 @@
 "update_number": "13", 
 "update_frequency": "60", 
 "update_at": "18:00", 
-"update_hourly_timestamp": "04:51", 
-"update_daily_timestamp": "04:56", 
-"update_weekly_timestamp": "05:46", 
+"update_hourly_timestamp": "10:18", 
+"update_daily_timestamp": "10:28", 
+"update_weekly_timestamp": "11:13", 
 "tournament": {
   "tournament_year": "2018", 
   "tournament_week": "36", 
   "tournament_day": "1", 
   "hour_filename": "T36-d1-hour", 
-  "day_listing": "T36-d1 Fri  7 Sep 18:00:00 UTC 2018 to Sat  8 Sep 17:59:59 UTC 2018", 
+  "day_listing": "T36-d1 Fri Sep  7 18:00:00 UTC 2018 to Sat Sep  8 17:59:59 UTC 2018", 
   "day_title": "Tournament 36, Day 1", 
-  "day_subtitle": "Fri  7 Sep 18:00:00 UTC 2018 to Sat  8 Sep 17:59:59 UTC 2018", 
+  "day_subtitle": "Fri Sep  7 18:00:00 UTC 2018 to Sat Sep  8 17:59:59 UTC 2018", 
   "day_filename": "T36-d1", 
   "day_url": "/tournaments/2018/09/07/T36-d1.html", 
   "week_listing": "Tournament 36", 
   "week_title": "Tournament 36", 
-  "week_subtitle": "Fri  7 Sep 18:00:00 UTC 2018 to Fri 14 Sep 17:59:59 UTC 2018", 
+  "week_subtitle": "Fri Sep  7 18:00:00 UTC 2018 to Fri Sep 14 17:59:59 UTC 2018", 
   "week_filename": "T36", 
   "week_url": "/tournaments/2018/09/07/T36.html", 
   "schedule": [
-    {"day": "1", "start": "Fri  7 Sep 18:00:00 UTC 2018", "stop": "Sat  8 Sep 17:59:59 UTC 2018"}, 
-    {"day": "2", "start": "Sat  8 Sep 18:00:00 UTC 2018", "stop": "Sun  9 Sep 17:59:59 UTC 2018"}, 
-    {"day": "3", "start": "Sun  9 Sep 18:00:00 UTC 2018", "stop": "Mon 10 Sep 17:59:59 UTC 2018"}, 
-    {"day": "4", "start": "Mon 10 Sep 18:00:00 UTC 2018", "stop": "Tue 11 Sep 17:59:59 UTC 2018"}, 
-    {"day": "5", "start": "Tue 11 Sep 18:00:00 UTC 2018", "stop": "Wed 12 Sep 17:59:59 UTC 2018"}, 
-    {"day": "6", "start": "Wed 12 Sep 18:00:00 UTC 2018", "stop": "Thu 13 Sep 17:59:59 UTC 2018"}, 
-    {"day": "7", "start": "Thu 13 Sep 18:00:00 UTC 2018", "stop": "Fri 14 Sep 17:59:59 UTC 2018"}
+    {"day": "1", "start": "Fri Sep  7 18:00:00 UTC 2018", "stop": "Sat Sep  8 17:59:59 UTC 2018"}, 
+    {"day": "2", "start": "Sat Sep  8 18:00:00 UTC 2018", "stop": "Sun Sep  9 17:59:59 UTC 2018"}, 
+    {"day": "3", "start": "Sun Sep  9 18:00:00 UTC 2018", "stop": "Mon Sep 10 17:59:59 UTC 2018"}, 
+    {"day": "4", "start": "Mon Sep 10 18:00:00 UTC 2018", "stop": "Tue Sep 11 17:59:59 UTC 2018"}, 
+    {"day": "5", "start": "Tue Sep 11 18:00:00 UTC 2018", "stop": "Wed Sep 12 17:59:59 UTC 2018"}, 
+    {"day": "6", "start": "Wed Sep 12 18:00:00 UTC 2018", "stop": "Thu Sep 13 17:59:59 UTC 2018"}, 
+    {"day": "7", "start": "Thu Sep 13 18:00:00 UTC 2018", "stop": "Fri Sep 14 17:59:59 UTC 2018"}
   ], 
 },
 "columns": [
@@ -107,12 +107,3 @@
   {"pos": "61", "name": "Pink Panther", "world": "Miller's Sound", "1c": "108", "1p": "54", "1t": "", "2c": "75", "2p": "58", "2t": "", "3c": "92", "3p": "52", "3t": "", "4c": "81", "4p": "52", "4t": "", "5c": "53", "5p": "40", "5t": "", "6c": "23", "6p": "49", "6t": "", "7c": "36", "7p": "46", "7t": "", "total": "468"}, 
   {"pos": "62", "name": "Garfield", "world": "Ehmry Bay", "1c": "85", "1p": "58", "1t": "", "2c": "94", "2p": "52", "2t": "", "3c": "103", "3p": "48", "3t": "", "4c": "68", "4p": "54", "4t": "", "5c": "28", "5p": "50", "5t": "", "6c": "33", "6p": "46", "6t": "", "7c": "22", "7p": "51", "7t": "", "total": "433"}, 
   {"pos": "63", "name": "Pepe Le Pew", "world": "Vizunah Square", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "9", "5p": "51", "5t": "", "6c": "32", "6p": "47", "6t": "", "7c": "38", "7p": "45", "7t": "", "total": "79"}, 
-  {"pos": "64", "name": "Homer Simpson", "world": "Northern Shiverpeaks", "1c": "", "1p": "", "1t": "", "2c": "4", "2p": "59", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "4", "6p": "50", "6t": "", "7c": "", "7p": "", "7t": "", "total": "8"}
-],
-"commentary": [
-  {"comment": "1st place, with 3188 kills is Bob the Dog from Yak's Bend"},
-  {"comment": "2nd place, with 2117 kills is Superman from Piken Square"},
-  {"comment": "3rd place, with 1997 kills is Superman from Blackgate"},
-  {"comment": "Bob the Dog from Yak's Bend killed 728 in one day!"}
-]
-}
