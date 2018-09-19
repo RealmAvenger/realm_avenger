@@ -107,3 +107,12 @@
   {"pos": "61", "name": "Pink Panther", "world": "Miller's Sound", "1c": "108", "1p": "54", "1t": "", "2c": "75", "2p": "58", "2t": "", "3c": "92", "3p": "52", "3t": "", "4c": "81", "4p": "52", "4t": "", "5c": "53", "5p": "40", "5t": "", "6c": "23", "6p": "49", "6t": "", "7c": "36", "7p": "46", "7t": "", "total": "468"}, 
   {"pos": "62", "name": "Garfield", "world": "Ehmry Bay", "1c": "85", "1p": "58", "1t": "", "2c": "94", "2p": "52", "2t": "", "3c": "103", "3p": "48", "3t": "", "4c": "68", "4p": "54", "4t": "", "5c": "28", "5p": "50", "5t": "", "6c": "33", "6p": "46", "6t": "", "7c": "22", "7p": "51", "7t": "", "total": "433"}, 
   {"pos": "63", "name": "Pepe Le Pew", "world": "Vizunah Square", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "9", "5p": "51", "5t": "", "6c": "32", "6p": "47", "6t": "", "7c": "38", "7p": "45", "7t": "", "total": "79"}, 
+  {"pos": "64", "name": "Homer Simpson", "world": "Northern Shiverpeaks", "1c": "", "1p": "", "1t": "", "2c": "4", "2p": "59", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "4", "6p": "50", "6t": "", "7c": "", "7p": "", "7t": "", "total": "8"}
+],
+"commentary": [
+  {"comment": "1st place, with 3188 kills is Bob the Dog from Yak's Bend"},
+  {"comment": "2nd place, with 2117 kills is Superman from Piken Square"},
+  {"comment": "3rd place, with 1997 kills is Superman from Blackgate"},
+  {"comment": "Bob the Dog from Yak's Bend killed 728 in one day!"}
+]
+}
