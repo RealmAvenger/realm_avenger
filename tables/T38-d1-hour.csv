@@ -1,5 +1,5 @@
-1,Oliver_Queen,Blackgate,9,1,4,5,11,2,5,3,7,3,5,4,12,2,11,1,7,4,6,6,7,5,,,84
-2,Nightwing,Blackgate,4,4,7,3,10,3,10,1,1,5,11,1,7,5,5,5,3,6,13,1,8,4,,,79
+1,Oliver_Queen,Blackgate,9,1,4,5,11,2,5,3,7,3,5,4,12,2,11,1,7,4,6,6,7,5,4,2,88
+2,Nightwing,Blackgate,4,4,7,3,10,3,10,1,1,5,11,1,7,5,5,5,3,6,13,1,8,4,4,2,83
 3,Goofy,Drakkar_Lake,4,4,9,2,13,1,5,3,9,2,7,2,15,1,,,,,4,7,8,4,,,74
 4,Mickey_Mouse,Devona's_Rest,7,2,9,2,7,5,6,2,12,1,7,2,10,3,7,3,,,,,,,,,65
 5,Bob_the_Dog,Yak's_Bend,,,,,,,,,5,4,,,6,6,8,2,12,1,9,4,8,4,,,48
@@ -8,9 +8,9 @@
 8,Minnie_Mouse,Ferguson's_Crossing,,,,,,,,,,,,,,,,,6,5,7,5,10,3,,,23
 9,Quaggan,Crystal_Desert,5,3,10,1,6,6,1,5,,,,,,,,,,,,,,,,,22
 9,Yogi_Bear,Far_Shiverpeaks,,,,,,,,,,,,,,,,,7,4,11,2,4,7,,,22
-10,Lightning_Bug,Arborstone,,,6,4,8,4,4,4,,,,,,,,,,,,,,,,,18
-11,Garfield,Ehmry_Bay,,,,,,,,,,,,,,,,,2,7,,,14,1,,,16
-11,Starman,Blackgate,,,,,,,,,,,,,,,,,8,3,4,7,4,7,,,16
-12,Spider_Man,Eredon_Terrace,,,,,,,,,,,,,,,,,6,5,4,7,5,6,,,15
+10,Garfield,Ehmry_Bay,,,,,,,,,,,,,,,,,2,7,,,14,1,5,1,21
+11,Lightning_Bug,Arborstone,,,6,4,8,4,4,4,,,,,,,,,,,,,,,,,18
+11,Spider_Man,Eredon_Terrace,,,,,,,,,,,,,,,,,6,5,4,7,5,6,3,3,18
+12,Starman,Blackgate,,,,,,,,,,,,,,,,,8,3,4,7,4,7,1,4,17
 13,Superman,Blackgate,,,,,,,,,,,,,,,,,9,2,1,8,4,7,,,14
 14,Cry_of_Frustration,Augury_Rock,3,5,,,3,7,,,,,,,,,,,,,,,,,,,6
