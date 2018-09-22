@@ -1,8 +1,8 @@
 {
 "FULLDATEtime": "", 
-"FULLDATE": "Sat 22 Sep 06:30:12 UTC 2018", 
-"datetime": "2018-09-22 06:30:12", 
-"timestamp": "20180922063012", 
+"FULLDATE": "Sat 22 Sep 06:35:10 UTC 2018", 
+"datetime": "2018-09-22 06:35:10", 
+"timestamp": "20180922063510", 
 "daymonthyear": "Saturday 22 September 2018", 
 "YYYY": "", 
 "MM": "", 
@@ -11,8 +11,8 @@
 "update_window": "0600-0659", 
 "update_number": "01", 
 "update_frequency": "05", 
-"update_at": "06:30", 
-"update_timestamp": "06:35", 
+"update_at": "06:35", 
+"update_timestamp": "06:40", 
 "update_window_start": "03:45", 
 "update_window_stop": "06:44", 
 "tournament": {
@@ -55,15 +55,15 @@
   {"col": "COL12", "label": "06:30", "start": "Sat Sep 22 06:30:00 UTC 2018", "stop": "Sat Sep 22 06:44:59 UTC 2018", "url": ""}
 ], 
 "entries": [
-  {"pos": "1", "name": "Shiny!", "world": "Anvil Rock", "1c": "", "1p": "", "2c": "7", "2p": "1", "3c": "2", "3p": "2", "4c": "10", "4p": "1", "5c": "6", "5p": "1", "6c": "5", "6p": "1", "7c": "13", "7p": "1", "8c": "11", "8p": "1", "9c": "1", "9p": "1", "10c": "3", "10p": "4", "11c": "11", "11p": "1", "12c": "", "12p": "", "total": "69"}, 
-  {"pos": "2", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "", "1p": "", "2c": "3", "2p": "2", "3c": "13", "3p": "1", "4c": "7", "4p": "2", "5c": "4", "5p": "2", "6c": "5", "6p": "1", "7c": "4", "7p": "2", "8c": "5", "8p": "2", "9c": "", "9p": "", "10c": "15", "10p": "1", "11c": "3", "11p": "4", "12c": "", "12p": "", "total": "59"}, 
-  {"pos": "3", "name": "Darth Maul", "world": "Aurora Glade", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "7", "10p": "2", "11c": "10", "11p": "2", "12c": "", "12p": "", "total": "17"}, 
-  {"pos": "4", "name": "Oh So Cute", "world": "Blacktide", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "5", "10p": "3", "11c": "9", "11p": "3", "12c": "", "12p": "", "total": "14"}, 
-  {"pos": "5", "name": "All Action Hero", "world": "Blackgate", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "1", "10p": "5", "11c": "11", "11p": "1", "12c": "", "12p": "", "total": "12"}
+  {"pos": "1", "name": "Shiny!", "world": "Anvil Rock", "1c": "", "1p": "", "2c": "7", "2p": "1", "3c": "2", "3p": "2", "4c": "10", "4p": "1", "5c": "6", "5p": "1", "6c": "5", "6p": "1", "7c": "13", "7p": "1", "8c": "11", "8p": "1", "9c": "1", "9p": "1", "10c": "3", "10p": "4", "11c": "11", "11p": "1", "12c": "2", "12p": "2", "total": "71"}, 
+  {"pos": "2", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "", "1p": "", "2c": "3", "2p": "2", "3c": "13", "3p": "1", "4c": "7", "4p": "2", "5c": "4", "5p": "2", "6c": "5", "6p": "1", "7c": "4", "7p": "2", "8c": "5", "8p": "2", "9c": "", "9p": "", "10c": "15", "10p": "1", "11c": "3", "11p": "4", "12c": "2", "12p": "2", "total": "61"}, 
+  {"pos": "3", "name": "Darth Maul", "world": "Aurora Glade", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "7", "10p": "2", "11c": "10", "11p": "2", "12c": "2", "12p": "2", "total": "19"}, 
+  {"pos": "4", "name": "Oh So Cute", "world": "Blacktide", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "5", "10p": "3", "11c": "9", "11p": "3", "12c": "4", "12p": "1", "total": "18"}, 
+  {"pos": "5", "name": "All Action Hero", "world": "Blackgate", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "1", "10p": "5", "11c": "11", "11p": "1", "12c": "1", "12p": "3", "total": "13"}
 ],
 "commentary": [
-  {"comment": "1st place, with 69 kills in 3.5 hours of play is Shiny! from Anvil Rock"},
-  {"comment": "2nd place, with 59 kills in 3.5 hours of play is Skritt Forager from Abaddon's Mouth"},
-  {"comment": "3rd place, with 17 kills in 1 hour of play is Darth Maul from Aurora Glade"}
+  {"comment": "1st place, with 71 kills in 3.5 hours of play is Shiny! from Anvil Rock"},
+  {"comment": "2nd place, with 61 kills in 3.5 hours of play is Skritt Forager from Abaddon's Mouth"},
+  {"comment": "3rd place, with 19 kills in 1 hour of play is Darth Maul from Aurora Glade"}
 ]
 }
