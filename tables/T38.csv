@@ -17,12 +17,12 @@
 17,Legion,Yak's_Bend,155,12,,131,24,,161,10,,108,15,,,,,,,,,,,555
 18,Fred_Flintstone,Maguuma,192,4,,141,19,,130,22,,91,24,,,,,,,,,,,554
 18,Vic_Sage,Underworld,132,20,,150,17,,148,16,,124,12,,,,,,,,,,,554
-19,Wonder_Woman,Underworld,118,24,,140,20,,140,19,,133,10,,,,,,,,,,,531
-20,Donald_Duck,Kodash,146,17,,141,19,,138,20,,104,18,,,,,,,,,,,529
-21,Shiny!,Anvil_Rock,180,6,,157,12,,171,6,,14,38,,,,,,,,,,,522
-22,Skritt_Forager,Abaddon's_Mouth,164,9,,154,14,,168,8,,18,37,,,,,,,,,,,504
+19,Shiny!,Anvil_Rock,180,6,,157,12,,171,6,,45,34,,,,,,,,,,,553
+20,Skritt_Forager,Abaddon's_Mouth,164,9,,154,14,,168,8,,47,33,,,,,,,,,,,533
+21,Wonder_Woman,Underworld,118,24,,140,20,,140,19,,133,10,,,,,,,,,,,531
+22,Donald_Duck,Kodash,146,17,,141,19,,138,20,,104,18,,,,,,,,,,,529
 23,Sylvester,Henge_of_Denravi,136,19,,162,10,,147,17,,54,31,,,,,,,,,,,499
-24,Tasmanian_Devil,Gunnar's_Hold,145,18,,151,16,,130,22,,41,35,,,,,,,,,,,467
+24,Tasmanian_Devil,Gunnar's_Hold,145,18,,151,16,,130,22,,41,36,,,,,,,,,,,467
 25,Goofy,Drakkar_Lake,152,13,,164,9,,144,18,,,,,,,,,,,,,,460
 26,The_Joker,Blackgate,115,25,,139,21,,91,37,,98,22,,,,,,,,,,,443
 27,Minnie_Mouse,Ferguson's_Crossing,129,21,,176,7,,116,25,,,,,,,,,,,,,,421
@@ -51,9 +51,9 @@
 49,Pink_Panther,Miller's_Sound,43,51,,64,46,,52,45,,64,27,,,,,,,,,,,223
 50,Pepe_Le_Pew,Vizunah_Square,58,44,,66,45,,47,48,,50,32,,,,,,,,,,,221
 51,Chip_'n'_Dale,Vabbi,57,45,,52,50,,49,47,,61,28,,,,,,,,,,,219
-52,The_Hulk,Seafarer's_Rest,75,40,,59,47,,41,52,,33,36,,,,,,,,,,,208
+52,The_Hulk,Seafarer's_Rest,75,40,,59,47,,41,52,,33,37,,,,,,,,,,,208
 53,E'telekeli,Borlis_Pass,62,43,,67,44,,76,41,,,,,,,,,,,,,,205
-54,Piglet,Whiteside_Ridge,50,47,,48,52,,46,49,,42,34,,,,,,,,,,,186
+54,Piglet,Whiteside_Ridge,50,47,,48,52,,46,49,,42,35,,,,,,,,,,,186
 55,Garfield,Ehmry_Bay,47,48,,73,42,,45,50,,,,,,,,,,,,,,165
 56,Lightning_Bug,Arborstone,51,46,,47,53,,58,43,,,,,,,,,,,,,,156
 57,Woody_Woodpecker,Isle_of_Janthir,47,48,,51,51,,53,44,,,,,,,,,,,,,,151
@@ -62,4 +62,4 @@
 60,Road_Runner,Elona_Reach,62,43,,52,50,,30,54,,,,,,,,,,,,,,144
 61,Cry_of_Frustration,Augury_Rock,34,53,,56,49,,46,49,,,,,,,,,,,,,,136
 62,Darth_Maul,Aurora_Glade,44,50,,44,54,,43,51,,,,,,,,,,,,,,131
-63,Homer_Simpson,Northern_Shiverpeaks,,,,,,,,,,1,39,,,,,,,,,,,1
+63,Homer_Simpson,Northern_Shiverpeaks,,,,,,,,,,1,38,,,,,,,,,,,1
