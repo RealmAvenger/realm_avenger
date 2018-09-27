@@ -84,3 +84,16 @@
   {"pos": "23", "name": "Homer", "world": "Yak's Bend", "1c": "4", "1p": "6", "2c": "4", "2p": "6", "3c": "7", "3p": "3", "4c": "", "4p": "", "5c": "4", "5p": "7", "6c": "", "6p": "", "7c": "2", "7p": "8", "8c": "4", "8p": "5", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "25"}, 
   {"pos": "24", "name": "Superman", "world": "Piken Square", "1c": "", "1p": "", "2c": "3", "2p": "7", "3c": "6", "3p": "4", "4c": "", "4p": "", "5c": "1", "5p": "10", "6c": "1", "6p": "10", "7c": "10", "7p": "1", "8c": "2", "8p": "7", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "23"}, 
   {"pos": "25", "name": "Chip 'n' Dale", "world": "Vabbi", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "9", "9p": "1", "10c": "4", "10p": "5", "11c": "", "11p": "", "12c": "3", "12p": "4", "total": "16"}, 
+  {"pos": "26", "name": "Bart Simpson", "world": "Yak's Bend", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "3", "9p": "5", "10c": "1", "10p": "8", "11c": "3", "11p": "7", "12c": "6", "12p": "1", "total": "13"}, 
+  {"pos": "26", "name": "Pepe Le Pew", "world": "Vizunah Square", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "4", "9p": "4", "10c": "5", "10p": "4", "11c": "4", "11p": "6", "12c": "", "12p": "", "total": "13"}, 
+  {"pos": "27", "name": "biot.4721", "world": "Gandara", "1c": "11", "1p": "1", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "11"}, 
+  {"pos": "28", "name": "Piglet", "world": "Whiteside Ridge", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "4", "10p": "5", "11c": "4", "11p": "6", "12c": "1", "12p": "6", "total": "9"}
+],
+"commentary": [
+  {"comment": "1st place, with 61 kills in 4 hours of play is Blue Beetle from Ruins of Surmia"},
+  {"comment": "1st place, with 61 kills in 4 hours of play is Tim Drake from Underworld"},
+  {"comment": "2nd place, with 58 kills in 4 hours of play is Wally West from Underworld"},
+  {"comment": "2nd place, with 58 kills in 4 hours of play is Wonder Woman from Underworld"},
+  {"comment": "3rd place, with 54 kills in 3.5 hours of play is Bob the Dog from Yak's Bend"}
+]
+}
