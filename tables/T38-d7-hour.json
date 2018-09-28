@@ -1,8 +1,14 @@
 {
 "FULLDATEtime": "", 
+<<<<<<< HEAD
 "FULLDATE": "Fri 28 Sep 09:35:10 UTC 2018", 
 "datetime": "2018-09-28 09:35:10", 
 "timestamp": "20180928093510", 
+=======
+"FULLDATE": "Fri 28 Sep 09:42:04 UTC 2018", 
+"datetime": "2018-09-28 09:42:04", 
+"timestamp": "20180928094204", 
+>>>>>>> ee6580c8ea5ca235afdd7d4a80ca33a5ffcd40da
 "daymonthyear": "Friday 28 September 2018", 
 "YYYY": "", 
 "MM": "", 
@@ -11,8 +17,13 @@
 "update_window": "0900-0959", 
 "update_number": "04", 
 "update_frequency": "05", 
+<<<<<<< HEAD
 "update_at": "09:35", 
 "update_timestamp": "09:40", 
+=======
+"update_at": "09:42", 
+"update_timestamp": "09:47", 
+>>>>>>> ee6580c8ea5ca235afdd7d4a80ca33a5ffcd40da
 "update_window_start": "06:45", 
 "update_window_stop": "09:45", 
 "tournament": {
@@ -20,39 +31,39 @@
   "tournament_week": "38", 
   "tournament_day": "7", 
   "hour_filename": "T38-d7-hour", 
-  "day_listing": "T38-d7 Thu Sep 27 18:00:00 UTC 2018 to Fri Sep 28 17:59:59 UTC 2018", 
+  "day_listing": "T38-d7 Thu 27 Sep 18:00:00 UTC 2018 to Fri 28 Sep 17:59:59 UTC 2018", 
   "day_title": "Tournament 38, Day 7", 
-  "day_subtitle": "Thu Sep 27 18:00:00 UTC 2018 to Fri Sep 28 17:59:59 UTC 2018", 
+  "day_subtitle": "Thu 27 Sep 18:00:00 UTC 2018 to Fri 28 Sep 17:59:59 UTC 2018", 
   "day_filename": "T38-d7", 
   "day_url": "/tournaments/2018/09/27/T38-d7.html", 
   "week_listing": "Tournament 38", 
   "week_title": "Tournament 38", 
-  "week_subtitle": "Fri Sep 21 18:00:00 UTC 2018 to Fri Sep 28 17:59:59 UTC 2018", 
+  "week_subtitle": "Fri 21 Sep 18:00:00 UTC 2018 to Fri 28 Sep 17:59:59 UTC 2018", 
   "week_filename": "T38", 
   "week_url": "/tournaments/2018/09/21/T38.html", 
   "schedule": [
-    {"day": "1", "start": "Fri Sep 21 18:00:00 UTC 2018", "stop": "Sat Sep 22 17:59:59 UTC 2018"}, 
-    {"day": "2", "start": "Sat Sep 22 18:00:00 UTC 2018", "stop": "Sun Sep 23 17:59:59 UTC 2018"}, 
-    {"day": "3", "start": "Sun Sep 23 18:00:00 UTC 2018", "stop": "Mon Sep 24 17:59:59 UTC 2018"}, 
-    {"day": "4", "start": "Mon Sep 24 18:00:00 UTC 2018", "stop": "Tue Sep 25 17:59:59 UTC 2018"}, 
-    {"day": "5", "start": "Tue Sep 25 18:00:00 UTC 2018", "stop": "Wed Sep 26 17:59:59 UTC 2018"}, 
-    {"day": "6", "start": "Wed Sep 26 18:00:00 UTC 2018", "stop": "Thu Sep 27 17:59:59 UTC 2018"}, 
-    {"day": "7", "start": "Thu Sep 27 18:00:00 UTC 2018", "stop": "Fri Sep 28 17:59:59 UTC 2018"}
+    {"day": "1", "start": "Fri 21 Sep 18:00:00 UTC 2018", "stop": "Sat 22 Sep 17:59:59 UTC 2018"}, 
+    {"day": "2", "start": "Sat 22 Sep 18:00:00 UTC 2018", "stop": "Sun 23 Sep 17:59:59 UTC 2018"}, 
+    {"day": "3", "start": "Sun 23 Sep 18:00:00 UTC 2018", "stop": "Mon 24 Sep 17:59:59 UTC 2018"}, 
+    {"day": "4", "start": "Mon 24 Sep 18:00:00 UTC 2018", "stop": "Tue 25 Sep 17:59:59 UTC 2018"}, 
+    {"day": "5", "start": "Tue 25 Sep 18:00:00 UTC 2018", "stop": "Wed 26 Sep 17:59:59 UTC 2018"}, 
+    {"day": "6", "start": "Wed 26 Sep 18:00:00 UTC 2018", "stop": "Thu 27 Sep 17:59:59 UTC 2018"}, 
+    {"day": "7", "start": "Thu 27 Sep 18:00:00 UTC 2018", "stop": "Fri 28 Sep 17:59:59 UTC 2018"}
   ], 
 },
 "columns": [
-  {"col": "COL1", "label": "06:45", "start": "Fri Sep 28 06:45:00 UTC 2018", "stop": "Fri Sep 28 06:59:59 UTC 2018", "url": ""},
-  {"col": "COL2", "label": "07:00", "start": "Fri Sep 28 07:00:00 UTC 2018", "stop": "Fri Sep 28 07:14:59 UTC 2018", "url": ""},
-  {"col": "COL3", "label": "07:15", "start": "Fri Sep 28 07:15:00 UTC 2018", "stop": "Fri Sep 28 07:29:59 UTC 2018", "url": ""},
-  {"col": "COL4", "label": "07:30", "start": "Fri Sep 28 07:30:00 UTC 2018", "stop": "Fri Sep 28 07:44:59 UTC 2018", "url": ""},
-  {"col": "COL5", "label": "07:45", "start": "Fri Sep 28 07:45:00 UTC 2018", "stop": "Fri Sep 28 07:59:59 UTC 2018", "url": ""},
-  {"col": "COL6", "label": "08:00", "start": "Fri Sep 28 08:00:00 UTC 2018", "stop": "Fri Sep 28 08:14:59 UTC 2018", "url": ""},
-  {"col": "COL7", "label": "08:15", "start": "Fri Sep 28 08:15:00 UTC 2018", "stop": "Fri Sep 28 08:29:59 UTC 2018", "url": ""},
-  {"col": "COL8", "label": "08:30", "start": "Fri Sep 28 08:30:00 UTC 2018", "stop": "Fri Sep 28 08:44:59 UTC 2018", "url": ""},
-  {"col": "COL9", "label": "08:45", "start": "Fri Sep 28 08:45:00 UTC 2018", "stop": "Fri Sep 28 08:59:59 UTC 2018", "url": ""},
-  {"col": "COL10", "label": "09:00", "start": "Fri Sep 28 09:00:00 UTC 2018", "stop": "Fri Sep 28 09:14:59 UTC 2018", "url": ""},
-  {"col": "COL11", "label": "09:15", "start": "Fri Sep 28 09:15:00 UTC 2018", "stop": "Fri Sep 28 09:29:59 UTC 2018", "url": ""},
-  {"col": "COL12", "label": "09:30", "start": "Fri Sep 28 09:30:00 UTC 2018", "stop": "Fri Sep 28 09:44:59 UTC 2018", "url": ""}
+  {"col": "COL1", "label": "06:45", "start": "Fri 28 Sep 06:45:00 UTC 2018", "stop": "Fri 28 Sep 06:59:59 UTC 2018", "url": ""},
+  {"col": "COL2", "label": "07:00", "start": "Fri 28 Sep 07:00:00 UTC 2018", "stop": "Fri 28 Sep 07:14:59 UTC 2018", "url": ""},
+  {"col": "COL3", "label": "07:15", "start": "Fri 28 Sep 07:15:00 UTC 2018", "stop": "Fri 28 Sep 07:29:59 UTC 2018", "url": ""},
+  {"col": "COL4", "label": "07:30", "start": "Fri 28 Sep 07:30:00 UTC 2018", "stop": "Fri 28 Sep 07:44:59 UTC 2018", "url": ""},
+  {"col": "COL5", "label": "07:45", "start": "Fri 28 Sep 07:45:00 UTC 2018", "stop": "Fri 28 Sep 07:59:59 UTC 2018", "url": ""},
+  {"col": "COL6", "label": "08:00", "start": "Fri 28 Sep 08:00:00 UTC 2018", "stop": "Fri 28 Sep 08:14:59 UTC 2018", "url": ""},
+  {"col": "COL7", "label": "08:15", "start": "Fri 28 Sep 08:15:00 UTC 2018", "stop": "Fri 28 Sep 08:29:59 UTC 2018", "url": ""},
+  {"col": "COL8", "label": "08:30", "start": "Fri 28 Sep 08:30:00 UTC 2018", "stop": "Fri 28 Sep 08:44:59 UTC 2018", "url": ""},
+  {"col": "COL9", "label": "08:45", "start": "Fri 28 Sep 08:45:00 UTC 2018", "stop": "Fri 28 Sep 08:59:59 UTC 2018", "url": ""},
+  {"col": "COL10", "label": "09:00", "start": "Fri 28 Sep 09:00:00 UTC 2018", "stop": "Fri 28 Sep 09:14:59 UTC 2018", "url": ""},
+  {"col": "COL11", "label": "09:15", "start": "Fri 28 Sep 09:15:00 UTC 2018", "stop": "Fri 28 Sep 09:29:59 UTC 2018", "url": ""},
+  {"col": "COL12", "label": "09:30", "start": "Fri 28 Sep 09:30:00 UTC 2018", "stop": "Fri 28 Sep 09:44:59 UTC 2018", "url": ""}
 ], 
 "entries": [
   {"pos": "1", "name": "E'telekeli", "world": "Borlis Pass", "1c": "", "1p": "", "2c": "9", "2p": "1", "3c": "12", "3p": "1", "4c": "4", "4p": "2", "5c": "7", "5p": "1", "6c": "2", "6p": "4", "7c": "6", "7p": "1", "8c": "", "8p": "", "9c": "6", "9p": "2", "10c": "1", "10p": "6", "11c": "6", "11p": "4", "12c": "1", "12p": "2", "total": "54"}, 
