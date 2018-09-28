@@ -1,8 +1,8 @@
 {
 "FULLDATEtime": "", 
-"FULLDATE": "Fri 28 Sep 22:30:11 UTC 2018", 
-"datetime": "2018-09-28 22:30:11", 
-"timestamp": "20180928223011", 
+"FULLDATE": "Fri 28 Sep 22:35:09 UTC 2018", 
+"datetime": "2018-09-28 22:35:09", 
+"timestamp": "20180928223509", 
 "daymonthyear": "Friday 28 September 2018", 
 "YYYY": "", 
 "MM": "", 
@@ -11,8 +11,8 @@
 "update_window": "2200-2259", 
 "update_number": "17", 
 "update_frequency": "05", 
-"update_at": "22:30", 
-"update_timestamp": "22:35", 
+"update_at": "22:35", 
+"update_timestamp": "22:40", 
 "update_window_start": "19:45", 
 "update_window_stop": "22:45", 
 "tournament": {
@@ -33,3 +33,30 @@
   "schedule": [
     {"day": "1", "start": "Fri Sep 28 18:00:00 UTC 2018", "stop": "Sat Sep 29 17:59:59 UTC 2018"}, 
     {"day": "2", "start": "Sat Sep 29 18:00:00 UTC 2018", "stop": "Sun Sep 30 17:59:59 UTC 2018"}, 
+    {"day": "3", "start": "Sun Sep 30 18:00:00 UTC 2018", "stop": "Mon Oct  1 17:59:59 UTC 2018"}, 
+    {"day": "4", "start": "Mon Oct  1 18:00:00 UTC 2018", "stop": "Tue Oct  2 17:59:59 UTC 2018"}, 
+    {"day": "5", "start": "Tue Oct  2 18:00:00 UTC 2018", "stop": "Wed Oct  3 17:59:59 UTC 2018"}, 
+    {"day": "6", "start": "Wed Oct  3 18:00:00 UTC 2018", "stop": "Thu Oct  4 17:59:59 UTC 2018"}, 
+    {"day": "7", "start": "Thu Oct  4 18:00:00 UTC 2018", "stop": "Fri Oct  5 17:59:59 UTC 2018"}
+  ], 
+},
+"columns": [
+  {"col": "COL1", "label": "19:45", "start": "Fri Sep 28 19:45:00 UTC 2018", "stop": "Fri Sep 28 19:59:59 UTC 2018", "url": ""},
+  {"col": "COL2", "label": "20:00", "start": "Fri Sep 28 20:00:00 UTC 2018", "stop": "Fri Sep 28 20:14:59 UTC 2018", "url": ""},
+  {"col": "COL3", "label": "20:15", "start": "Fri Sep 28 20:15:00 UTC 2018", "stop": "Fri Sep 28 20:29:59 UTC 2018", "url": ""},
+  {"col": "COL4", "label": "20:30", "start": "Fri Sep 28 20:30:00 UTC 2018", "stop": "Fri Sep 28 20:44:59 UTC 2018", "url": ""},
+  {"col": "COL5", "label": "20:45", "start": "Fri Sep 28 20:45:00 UTC 2018", "stop": "Fri Sep 28 20:59:59 UTC 2018", "url": ""},
+  {"col": "COL6", "label": "21:00", "start": "Fri Sep 28 21:00:00 UTC 2018", "stop": "Fri Sep 28 21:14:59 UTC 2018", "url": ""},
+  {"col": "COL7", "label": "21:15", "start": "Fri Sep 28 21:15:00 UTC 2018", "stop": "Fri Sep 28 21:29:59 UTC 2018", "url": ""},
+  {"col": "COL8", "label": "21:30", "start": "Fri Sep 28 21:30:00 UTC 2018", "stop": "Fri Sep 28 21:44:59 UTC 2018", "url": ""},
+  {"col": "COL9", "label": "21:45", "start": "Fri Sep 28 21:45:00 UTC 2018", "stop": "Fri Sep 28 21:59:59 UTC 2018", "url": ""},
+  {"col": "COL10", "label": "22:00", "start": "Fri Sep 28 22:00:00 UTC 2018", "stop": "Fri Sep 28 22:14:59 UTC 2018", "url": ""},
+  {"col": "COL11", "label": "22:15", "start": "Fri Sep 28 22:15:00 UTC 2018", "stop": "Fri Sep 28 22:29:59 UTC 2018", "url": ""},
+  {"col": "COL12", "label": "22:30", "start": "Fri Sep 28 22:30:00 UTC 2018", "stop": "Fri Sep 28 22:44:59 UTC 2018", "url": ""}
+], 
+"entries": [
+  {"pos": "1", "name": "Batman", "world": "Tarnished Coast", "1c": "", "1p": "", "2c": "9", "2p": "1", "3c": "6", "3p": "5", "4c": "6", "4p": "4", "5c": "8", "5p": "1", "6c": "5", "6p": "5", "7c": "4", "7p": "7", "8c": "8", "8p": "3", "9c": "4", "9p": "4", "10c": "8", "10p": "2", "11c": "5", "11p": "4", "12c": "", "12p": "", "total": "63"}, 
+  {"pos": "1", "name": "Blue Beetle", "world": "Ruins of Surmia", "1c": "3", "1p": "4", "2c": "3", "2p": "6", "3c": "10", "3p": "2", "4c": "9", "4p": "2", "5c": "4", "5p": "5", "6c": "", "6p": "", "7c": "5", "7p": "6", "8c": "10", "8p": "2", "9c": "5", "9p": "3", "10c": "6", "10p": "4", "11c": "6", "11p": "3", "12c": "2", "12p": "2", "total": "63"}, 
+  {"pos": "2", "name": "Tim Drake", "world": "Underworld", "1c": "6", "1p": "1", "2c": "4", "2p": "5", "3c": "8", "3p": "3", "4c": "4", "4p": "6", "5c": "", "5p": "", "6c": "7", "6p": "4", "7c": "4", "7p": "7", "8c": "3", "8p": "8", "9c": "7", "9p": "1", "10c": "9", "10p": "1", "11c": "1", "11p": "6", "12c": "1", "12p": "3", "total": "54"}, 
+  {"pos": "3", "name": "Elmer Fudd", "world": "Sea of Sorrows", "1c": "5", "1p": "2", "2c": "9", "2p": "1", "3c": "3", "3p": "8", "4c": "7", "4p": "3", "5c": "4", "5p": "5", "6c": "7", "6p": "4", "7c": "9", "7p": "2", "8c": "3", "8p": "8", "9c": "3", "9p": "5", "10c": "2", "10p": "8", "11c": "", "11p": "", "12c": "1", "12p": "3", "total": "53"}, 
+  {"pos": "4", "name": "Khan", "world": "Yak's Bend", "1c": "2", "1p": "5", "2c": "3", "2p": "6", "3c": "8", "3p": "3", "4c": "6", "4p": "4", "5c": "", "5p": "", "6c": "10", "6p": "1", "7c": "11", "7p": "1", "8c": "7", "8p": "4", "9c": "3", "9p": "5", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "50"}, 
