@@ -5,9 +5,9 @@
 "update_number": "13", 
 "update_frequency": "60", 
 "update_at": "18:00", 
-"update_hourly_timestamp": "10:55", 
-"update_daily_timestamp": "11:05", 
-"update_weekly_timestamp": "11:50", 
+"update_hourly_timestamp": "10:20", 
+"update_daily_timestamp": "10:30", 
+"update_weekly_timestamp": "11:15", 
 "tournament": {
   "tournament_status": "CLOSED", 
   "tournament_year": "2018", 

@@ -5,15 +5,9 @@
 "update_number": "13", 
 "update_frequency": "60", 
 "update_at": "18:00", 
-<<<<<<< HEAD
-"update_hourly_timestamp": "13:43", 
-"update_daily_timestamp": "13:53", 
-"update_weekly_timestamp": "14:38", 
-=======
-"update_hourly_timestamp": "13:53", 
-"update_daily_timestamp": "14:03", 
-"update_weekly_timestamp": "14:48", 
->>>>>>> 4311457f45ccc117ef7f42128fd7a1eb15e44a97
+"update_hourly_timestamp": "10:04", 
+"update_daily_timestamp": "10:14", 
+"update_weekly_timestamp": "10:59", 
 "tournament": {
   "tournament_status": "CLOSED", 
   "tournament_year": "2018", 
@@ -132,9 +126,9 @@
   {"pos": "46", "name": "biot.4721", "world": "Gandara", "1c": "7", "1p": "16", "2c": "9", "2p": "22", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "13c": "", "13p": "", "14c": "", "14p": "", "15c": "", "15p": "", "16c": "", "16p": "", "17c": "", "17p": "", "18c": "", "18p": "", "19c": "", "19p": "", "20c": "", "20p": "", "21c": "", "21p": "", "22c": "", "22p": "", "23c": "2", "23p": "18", "24c": "10", "24p": "15", "total": "28"}
 ],
 "commentary": [
-  {"comment": "1st place, with 287 kills in 12 hours of play is Bob the Dog from Yak's Bend"},
-  {"comment": "2nd place, with 192 kills in 6 hours of play is Riker from Yak's Bend"},
-  {"comment": "2nd place, with 192 kills in 6 hours of play is Khan from Yak's Bend"},
-  {"comment": "3rd place, with 171 kills in 6 hours of play is Shiny! from Anvil Rock"}
+  {"comment": "1st place, with 287 kills in 13 hours of play is Bob the Dog from Yak's Bend"},
+  {"comment": "2nd place, with 192 kills in 7 hours of play is Riker from Yak's Bend"},
+  {"comment": "2nd place, with 192 kills in 7 hours of play is Khan from Yak's Bend"},
+  {"comment": "3rd place, with 171 kills in 7 hours of play is Shiny! from Anvil Rock"}
 ]
 }
