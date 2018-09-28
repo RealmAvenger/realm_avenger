@@ -69,3 +69,16 @@
   {"pos": "9", "name": "Goofy", "world": "Drakkar Lake", "1c": "3", "1p": "5", "2c": "", "2p": "", "3c": "3", "3p": "5", "4c": "8", "4p": "1", "5c": "10", "5p": "1", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "24"}, 
   {"pos": "10", "name": "Oliver Queen", "world": "Blackgate", "1c": "5", "1p": "3", "2c": "4", "2p": "3", "3c": "5", "3p": "3", "4c": "2", "4p": "6", "5c": "1", "5p": "7", "6c": "6", "6p": "3", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "23"}, 
   {"pos": "10", "name": "Tasmanian Devil", "world": "Gunnar's Hold", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "3", "7p": "4", "8c": "4", "8p": "6", "9c": "2", "9p": "5", "10c": "10", "10p": "1", "11c": "4", "11p": "4", "12c": "", "12p": "", "total": "23"}, 
+  {"pos": "11", "name": "Nightwing", "world": "Blackgate", "1c": "4", "1p": "4", "2c": "1", "2p": "5", "3c": "1", "3p": "7", "4c": "7", "4p": "2", "5c": "5", "5p": "5", "6c": "4", "6p": "4", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "22"}, 
+  {"pos": "11", "name": "Road Runner", "world": "Elona Reach", "1c": "6", "1p": "2", "2c": "3", "2p": "4", "3c": "3", "3p": "5", "4c": "2", "4p": "6", "5c": "5", "5p": "5", "6c": "3", "6p": "5", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "22"}, 
+  {"pos": "12", "name": "Riker", "world": "Yak's Bend", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "5", "11p": "3", "12c": "", "12p": "", "total": "5"}, 
+  {"pos": "13", "name": "Khan", "world": "Yak's Bend", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "2", "11p": "5", "12c": "", "12p": "", "total": "2"}
+],
+"commentary": [
+  {"comment": "1st place, with 56 kills in 4 hours of play is Bob the Dog from Yak's Bend"},
+  {"comment": "1st place, with 56 kills in 3.5 hours of play is Spider Man from Eredon Terrace"},
+  {"comment": "2nd place, with 47 kills in 3 hours of play is Starman from Blackgate"},
+  {"comment": "2nd place, with 47 kills in 3.5 hours of play is Yogi Bear from Far Shiverpeaks"},
+  {"comment": "3rd place, with 46 kills in 4 hours of play is Minnie Mouse from Ferguson's Crossing"}
+]
+}
