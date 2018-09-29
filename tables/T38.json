@@ -5,18 +5,30 @@
 "update_number": "13", 
 "update_frequency": "60", 
 "update_at": "18:00", 
+<<<<<<< HEAD
+"update_hourly_timestamp": "14:35", 
+"update_daily_timestamp": "14:45", 
+"update_weekly_timestamp": "15:30", 
+=======
 "update_hourly_timestamp": "14:44", 
 "update_daily_timestamp": "14:54", 
 "update_weekly_timestamp": "15:39", 
+>>>>>>> b3aa617d163789b57eb1f8f3bcf6bcb9f46d346a
 "tournament": {
   "tournament_status": "CLOSED", 
   "tournament_year": "2018", 
   "tournament_week": "38", 
   "tournament_day": "1", 
   "hour_filename": "T38-d1-hour", 
+<<<<<<< HEAD
+  "day_listing": "T38-d1 Fri 21 Sep 18:00:00 UTC 2018 to Sat 22 Sep 17:59:59 UTC 2018", 
+  "day_title": "Tournament 38, Day 1", 
+  "day_subtitle": "Fri 21 Sep 18:00:00 UTC 2018 to Sat 22 Sep 17:59:59 UTC 2018", 
+=======
   "day_listing": "T38-d1 Fri Sep 21 18:00:00 UTC 2018 to Sat Sep 22 17:59:59 UTC 2018", 
   "day_title": "Tournament 38, Day 1", 
   "day_subtitle": "Fri Sep 21 18:00:00 UTC 2018 to Sat Sep 22 17:59:59 UTC 2018", 
+>>>>>>> b3aa617d163789b57eb1f8f3bcf6bcb9f46d346a
   "day_filename": "T38-d1", 
   "day_url": "/tournaments/2018/09/21/T38-d1.html", 
   "week_listing": "Tournament 38", 
