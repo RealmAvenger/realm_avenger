@@ -5,45 +5,33 @@
 "update_number": "13", 
 "update_frequency": "60", 
 "update_at": "18:00", 
-<<<<<<< HEAD
-"update_hourly_timestamp": "14:35", 
-"update_daily_timestamp": "14:45", 
-"update_weekly_timestamp": "15:30", 
-=======
-"update_hourly_timestamp": "14:44", 
-"update_daily_timestamp": "14:54", 
-"update_weekly_timestamp": "15:39", 
->>>>>>> b3aa617d163789b57eb1f8f3bcf6bcb9f46d346a
+"update_hourly_timestamp": "14:53", 
+"update_daily_timestamp": "15:03", 
+"update_weekly_timestamp": "15:48", 
 "tournament": {
   "tournament_status": "CLOSED", 
   "tournament_year": "2018", 
   "tournament_week": "38", 
   "tournament_day": "1", 
   "hour_filename": "T38-d1-hour", 
-<<<<<<< HEAD
   "day_listing": "T38-d1 Fri 21 Sep 18:00:00 UTC 2018 to Sat 22 Sep 17:59:59 UTC 2018", 
   "day_title": "Tournament 38, Day 1", 
   "day_subtitle": "Fri 21 Sep 18:00:00 UTC 2018 to Sat 22 Sep 17:59:59 UTC 2018", 
-=======
-  "day_listing": "T38-d1 Fri Sep 21 18:00:00 UTC 2018 to Sat Sep 22 17:59:59 UTC 2018", 
-  "day_title": "Tournament 38, Day 1", 
-  "day_subtitle": "Fri Sep 21 18:00:00 UTC 2018 to Sat Sep 22 17:59:59 UTC 2018", 
->>>>>>> b3aa617d163789b57eb1f8f3bcf6bcb9f46d346a
   "day_filename": "T38-d1", 
   "day_url": "/tournaments/2018/09/21/T38-d1.html", 
   "week_listing": "Tournament 38", 
   "week_title": "Tournament 38", 
-  "week_subtitle": "Fri Sep 21 18:00:00 UTC 2018 to Fri Sep 28 17:59:59 UTC 2018", 
+  "week_subtitle": "Fri 21 Sep 18:00:00 UTC 2018 to Fri 28 Sep 17:59:59 UTC 2018", 
   "week_filename": "T38", 
   "week_url": "/tournaments/2018/09/21/T38.html", 
   "schedule": [
-    {"day": "1", "start": "Fri Sep 21 18:00:00 UTC 2018", "stop": "Sat Sep 22 17:59:59 UTC 2018"}, 
-    {"day": "2", "start": "Sat Sep 22 18:00:00 UTC 2018", "stop": "Sun Sep 23 17:59:59 UTC 2018"}, 
-    {"day": "3", "start": "Sun Sep 23 18:00:00 UTC 2018", "stop": "Mon Sep 24 17:59:59 UTC 2018"}, 
-    {"day": "4", "start": "Mon Sep 24 18:00:00 UTC 2018", "stop": "Tue Sep 25 17:59:59 UTC 2018"}, 
-    {"day": "5", "start": "Tue Sep 25 18:00:00 UTC 2018", "stop": "Wed Sep 26 17:59:59 UTC 2018"}, 
-    {"day": "6", "start": "Wed Sep 26 18:00:00 UTC 2018", "stop": "Thu Sep 27 17:59:59 UTC 2018"}, 
-    {"day": "7", "start": "Thu Sep 27 18:00:00 UTC 2018", "stop": "Fri Sep 28 17:59:59 UTC 2018"}
+    {"day": "1", "start": "Fri 21 Sep 18:00:00 UTC 2018", "stop": "Sat 22 Sep 17:59:59 UTC 2018"}, 
+    {"day": "2", "start": "Sat 22 Sep 18:00:00 UTC 2018", "stop": "Sun 23 Sep 17:59:59 UTC 2018"}, 
+    {"day": "3", "start": "Sun 23 Sep 18:00:00 UTC 2018", "stop": "Mon 24 Sep 17:59:59 UTC 2018"}, 
+    {"day": "4", "start": "Mon 24 Sep 18:00:00 UTC 2018", "stop": "Tue 25 Sep 17:59:59 UTC 2018"}, 
+    {"day": "5", "start": "Tue 25 Sep 18:00:00 UTC 2018", "stop": "Wed 26 Sep 17:59:59 UTC 2018"}, 
+    {"day": "6", "start": "Wed 26 Sep 18:00:00 UTC 2018", "stop": "Thu 27 Sep 17:59:59 UTC 2018"}, 
+    {"day": "7", "start": "Thu 27 Sep 18:00:00 UTC 2018", "stop": "Fri 28 Sep 17:59:59 UTC 2018"}
   ], 
 },
 "columns": [
