@@ -1,14 +1,15 @@
 {
-"epoch": "1538219186", 
-"datetime": "2018-09-29 11:06:26", 
-"update_window": "1100-1159", 
-"update_number": "06", 
+"epoch": "1538231427", 
+"datetime": "2018-09-29 14:30:27", 
+"update_window": "1400-1459", 
+"update_number": "09", 
 "update_frequency": "60", 
-"update_at": "11:06", 
-"update_hourly_timestamp": "11:11", 
-"update_daily_timestamp": "11:21", 
-"update_weekly_timestamp": "12:06", 
+"update_at": "14:30", 
+"update_hourly_timestamp": "14:35", 
+"update_daily_timestamp": "14:45", 
+"update_weekly_timestamp": "15:30", 
 "tournament": {
+  "tournament_status": "OPEN", 
   "tournament_year": "2018", 
   "tournament_week": "39", 
   "tournament_day": "1", 
@@ -98,9 +99,8 @@
   {"pos": "41", "name": "Homer Simpson", "world": "Northern Shiverpeaks", "1c": "3", "1p": "41", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "", "4p": "", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "", "6p": "", "6t": "", "7c": "", "7p": "", "7t": "", "total": "3"}
 ],
 "commentary": [
-  {"comment": "1st place, with 125 kills is Blue Beetle from Ruins of Surmia"},
-  {"comment": "2nd place, with 118 kills is Shiny! from Anvil Rock"},
-  {"comment": "3rd place, with 111 kills is Wally West from Underworld"},
-  {"comment": "Blue Beetle from Ruins of Surmia killed 125 in one day!"}
+  {"comment": "1st place, with 125 kills was Blue Beetle from Ruins of Surmia"},
+  {"comment": "2nd place, with 118 kills was Shiny! from Anvil Rock"},
+  {"comment": "3rd place, with 111 kills was Wally West from Underworld"}
 ]
 }

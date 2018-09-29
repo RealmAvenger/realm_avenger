@@ -1,23 +1,24 @@
 {
-"epoch": "1538071200", 
-"datetime": "2018-09-27 18:00:00", 
+"epoch": "1537552800", 
+"datetime": "2018-09-21 18:00:00", 
 "update_window": "1800-1859", 
 "update_number": "13", 
 "update_frequency": "60", 
 "update_at": "18:00", 
-"update_hourly_timestamp": "11:13", 
-"update_daily_timestamp": "11:23", 
-"update_weekly_timestamp": "12:08", 
+"update_hourly_timestamp": "14:35", 
+"update_daily_timestamp": "14:45", 
+"update_weekly_timestamp": "15:30", 
 "tournament": {
+  "tournament_status": "CLOSED", 
   "tournament_year": "2018", 
   "tournament_week": "38", 
-  "tournament_day": "7", 
-  "hour_filename": "T38-d7-hour", 
-  "day_listing": "T38-d7 Thu 27 Sep 18:00:00 UTC 2018 to Fri 28 Sep 17:59:59 UTC 2018", 
-  "day_title": "Tournament 38, Day 7", 
-  "day_subtitle": "Thu 27 Sep 18:00:00 UTC 2018 to Fri 28 Sep 17:59:59 UTC 2018", 
-  "day_filename": "T38-d7", 
-  "day_url": "/tournaments/2018/09/27/T38-d7.html", 
+  "tournament_day": "1", 
+  "hour_filename": "T38-d1-hour", 
+  "day_listing": "T38-d1 Fri 21 Sep 18:00:00 UTC 2018 to Sat 22 Sep 17:59:59 UTC 2018", 
+  "day_title": "Tournament 38, Day 1", 
+  "day_subtitle": "Fri 21 Sep 18:00:00 UTC 2018 to Sat 22 Sep 17:59:59 UTC 2018", 
+  "day_filename": "T38-d1", 
+  "day_url": "/tournaments/2018/09/21/T38-d1.html", 
   "week_listing": "Tournament 38", 
   "week_title": "Tournament 38", 
   "week_subtitle": "Fri 21 Sep 18:00:00 UTC 2018 to Fri 28 Sep 17:59:59 UTC 2018", 
@@ -109,9 +110,8 @@
   {"pos": "59", "name": "Homer Simpson", "world": "Northern Shiverpeaks", "1c": "", "1p": "", "1t": "", "2c": "", "2p": "", "2t": "", "3c": "", "3p": "", "3t": "", "4c": "1", "4p": "53", "4t": "", "5c": "", "5p": "", "5t": "", "6c": "4", "6p": "49", "6t": "", "7c": "", "7p": "", "7t": "", "total": "5"}
 ],
 "commentary": [
-  {"comment": "1st place, with 1962 kills is Bob the Dog from Yak's Bend"},
-  {"comment": "2nd place, with 1124 kills is Superman from Piken Square"},
-  {"comment": "3rd place, with 1078 kills is Shiny! from Anvil Rock"},
-  {"comment": "Bob the Dog from Yak's Bend killed 390 in one day!"}
+  {"comment": "1st place, with 1962 kills was Bob the Dog from Yak's Bend"},
+  {"comment": "2nd place, with 1124 kills was Superman from Piken Square"},
+  {"comment": "3rd place, with 1078 kills was Shiny! from Anvil Rock"}
 ]
 }
