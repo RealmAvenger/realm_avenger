@@ -1,8 +1,8 @@
 {
 "FULLDATEtime": "", 
-"FULLDATE": "Tue  2 Oct 09:15:46 UTC 2018", 
-"datetime": "2018-10-02 09:15:46", 
-"timestamp": "20181002091546", 
+"FULLDATE": "Tue  2 Oct 09:20:09 UTC 2018", 
+"datetime": "2018-10-02 09:20:09", 
+"timestamp": "20181002092009", 
 "daymonthyear": "Tuesday  2 October 2018", 
 "YYYY": "", 
 "MM": "", 
@@ -11,8 +11,8 @@
 "update_window": "0900-0959", 
 "update_number": "04", 
 "update_frequency": "05", 
-"update_at": "09:15", 
-"update_timestamp": "09:20", 
+"update_at": "09:20", 
+"update_timestamp": "09:25", 
 "update_window_start": "06:30", 
 "update_window_stop": "09:30", 
 "tournament": {
