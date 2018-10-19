@@ -1,0 +1,50 @@
+{
+"epoch": "1539972016", 
+"datetime": "2018-10-19 18:00:16", 
+"update_window": "1800-1859", 
+"update_number": "13", 
+"update_frequency": "60", 
+"update_at": "18:00", 
+"update_hourly_timestamp": "18:05", 
+"update_daily_timestamp": "18:15", 
+"update_weekly_timestamp": "19:00", 
+"tournament": {
+  "tournament_status": "OPEN", 
+  "tournament_year": "2018", 
+  "tournament_week": "42", 
+  "tournament_day": "1", 
+  "hour_filename": "T42-d1-hour", 
+  "day_listing": "T42-d1 Fri Oct 19 18:00:00 UTC 2018 to Sat Oct 20 17:59:59 UTC 2018", 
+  "day_title": "Tournament 42, Day 1", 
+  "day_subtitle": "Fri Oct 19 18:00:00 UTC 2018 to Sat Oct 20 17:59:59 UTC 2018", 
+  "day_filename": "T42-d1", 
+  "day_url": "/tournaments/2018/10/19/T42-d1.html", 
+  "week_listing": "Tournament 42", 
+  "week_title": "Tournament 42", 
+  "week_subtitle": "Fri Oct 19 18:00:00 UTC 2018 to Fri Oct 26 17:59:59 UTC 2018", 
+  "week_filename": "T42", 
+  "week_url": "/tournaments/2018/10/19/T42.html", 
+  "schedule": [
+    {"day": "1", "start": "Fri Oct 19 18:00:00 UTC 2018", "stop": "Sat Oct 20 17:59:59 UTC 2018"}, 
+    {"day": "2", "start": "Sat Oct 20 18:00:00 UTC 2018", "stop": "Sun Oct 21 17:59:59 UTC 2018"}, 
+    {"day": "3", "start": "Sun Oct 21 18:00:00 UTC 2018", "stop": "Mon Oct 22 17:59:59 UTC 2018"}, 
+    {"day": "4", "start": "Mon Oct 22 18:00:00 UTC 2018", "stop": "Tue Oct 23 17:59:59 UTC 2018"}, 
+    {"day": "5", "start": "Tue Oct 23 18:00:00 UTC 2018", "stop": "Wed Oct 24 17:59:59 UTC 2018"}, 
+    {"day": "6", "start": "Wed Oct 24 18:00:00 UTC 2018", "stop": "Thu Oct 25 17:59:59 UTC 2018"}, 
+    {"day": "7", "start": "Thu Oct 25 18:00:00 UTC 2018", "stop": "Fri Oct 26 17:59:59 UTC 2018"}
+  ], 
+},
+"columns": [
+  {"col": "COL1", "label": "day 1", "start": "Fri 19 Oct 18:00:00 UTC 2018", "stop": "Sat 20 Oct 17:59:59 UTC 2018", "url": "/tournaments/2018/10/19/T42-d1.html"},
+  {"col": "COL2", "label": "day 2", "start": "Sat 20 Oct 18:00:00 UTC 2018", "stop": "Sun 21 Oct 17:59:59 UTC 2018", "url": "/tournaments/2018/10/20/T42-d2.html"},
+  {"col": "COL3", "label": "day 3", "start": "Sun 21 Oct 18:00:00 UTC 2018", "stop": "Mon 22 Oct 17:59:59 UTC 2018", "url": "/tournaments/2018/10/21/T42-d3.html"},
+  {"col": "COL4", "label": "day 4", "start": "Mon 22 Oct 18:00:00 UTC 2018", "stop": "Tue 23 Oct 17:59:59 UTC 2018", "url": "/tournaments/2018/10/22/T42-d4.html"},
+  {"col": "COL5", "label": "day 5", "start": "Tue 23 Oct 18:00:00 UTC 2018", "stop": "Wed 24 Oct 17:59:59 UTC 2018", "url": "/tournaments/2018/10/23/T42-d5.html"},
+  {"col": "COL6", "label": "day 6", "start": "Wed 24 Oct 18:00:00 UTC 2018", "stop": "Thu 25 Oct 17:59:59 UTC 2018", "url": "/tournaments/2018/10/24/T42-d6.html"},
+  {"col": "COL7", "label": "day 7", "start": "Thu 25 Oct 18:00:00 UTC 2018", "stop": "Fri 26 Oct 17:59:59 UTC 2018", "url": "/tournaments/2018/10/25/T42-d7.html"}
+], 
+"entries": [
+],
+"commentary": [
+]
+}
