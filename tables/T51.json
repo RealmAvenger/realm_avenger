@@ -1,0 +1,50 @@
+{
+"epoch": "1545415200", 
+"datetime": "2018-12-21 18:00:00", 
+"update_window": "1800-1859", 
+"update_number": "13", 
+"update_frequency": "60", 
+"update_at": "18:00", 
+"update_hourly_timestamp": "16:26", 
+"update_daily_timestamp": "16:36", 
+"update_weekly_timestamp": "17:21", 
+"tournament": {
+  "tournament_status": "CLOSED", 
+  "tournament_year": "2018", 
+  "tournament_week": "51", 
+  "tournament_day": "1", 
+  "hour_filename": "T51-d1-hour", 
+  "day_listing": "T51-d1 Fri 21 Dec 18:00:00 UTC 2018 to Sat 22 Dec 17:59:59 UTC 2018", 
+  "day_title": "Tournament 51, Day 1", 
+  "day_subtitle": "Fri 21 Dec 18:00:00 UTC 2018 to Sat 22 Dec 17:59:59 UTC 2018", 
+  "day_filename": "T51-d1", 
+  "day_url": "/tournaments/2018/12/21/T51-d1.html", 
+  "week_listing": "Tournament 51", 
+  "week_title": "Tournament 51", 
+  "week_subtitle": "Fri 21 Dec 18:00:00 UTC 2018 to Fri 28 Dec 17:59:59 UTC 2018", 
+  "week_filename": "T51", 
+  "week_url": "/tournaments/2018/12/21/T51.html", 
+  "schedule": [
+    {"day": "1", "start": "Fri 21 Dec 18:00:00 UTC 2018", "stop": "Sat 22 Dec 17:59:59 UTC 2018"}, 
+    {"day": "2", "start": "Sat 22 Dec 18:00:00 UTC 2018", "stop": "Sun 23 Dec 17:59:59 UTC 2018"}, 
+    {"day": "3", "start": "Sun 23 Dec 18:00:00 UTC 2018", "stop": "Mon 24 Dec 17:59:59 UTC 2018"}, 
+    {"day": "4", "start": "Mon 24 Dec 18:00:00 UTC 2018", "stop": "Tue 25 Dec 17:59:59 UTC 2018"}, 
+    {"day": "5", "start": "Tue 25 Dec 18:00:00 UTC 2018", "stop": "Wed 26 Dec 17:59:59 UTC 2018"}, 
+    {"day": "6", "start": "Wed 26 Dec 18:00:00 UTC 2018", "stop": "Thu 27 Dec 17:59:59 UTC 2018"}, 
+    {"day": "7", "start": "Thu 27 Dec 18:00:00 UTC 2018", "stop": "Fri 28 Dec 17:59:59 UTC 2018"}
+  ], 
+},
+"columns": [
+  {"col": "COL1", "label": "day 1", "start": "Fri 21 Dec 18:00:00 UTC 2018", "stop": "Sat 22 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/21/T51-d1.html"},
+  {"col": "COL2", "label": "day 2", "start": "Sat 22 Dec 18:00:00 UTC 2018", "stop": "Sun 23 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/22/T51-d2.html"},
+  {"col": "COL3", "label": "day 3", "start": "Sun 23 Dec 18:00:00 UTC 2018", "stop": "Mon 24 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/23/T51-d3.html"},
+  {"col": "COL4", "label": "day 4", "start": "Mon 24 Dec 18:00:00 UTC 2018", "stop": "Tue 25 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/24/T51-d4.html"},
+  {"col": "COL5", "label": "day 5", "start": "Tue 25 Dec 18:00:00 UTC 2018", "stop": "Wed 26 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/25/T51-d5.html"},
+  {"col": "COL6", "label": "day 6", "start": "Wed 26 Dec 18:00:00 UTC 2018", "stop": "Thu 27 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/26/T51-d6.html"},
+  {"col": "COL7", "label": "day 7", "start": "Thu 27 Dec 18:00:00 UTC 2018", "stop": "Fri 28 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/27/T51-d7.html"}
+], 
+"entries": [
+],
+"commentary": [
+]
+}

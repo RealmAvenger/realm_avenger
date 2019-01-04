@@ -1,0 +1,50 @@
+{
+"epoch": "1545328800", 
+"datetime": "2018-12-20 18:00:00", 
+"update_window": "1800-1859", 
+"update_number": "13", 
+"update_frequency": "60", 
+"update_at": "18:00", 
+"update_hourly_timestamp": "16:25", 
+"update_daily_timestamp": "16:35", 
+"update_weekly_timestamp": "17:20", 
+"tournament": {
+  "tournament_status": "CLOSED", 
+  "tournament_year": "2018", 
+  "tournament_week": "50", 
+  "tournament_day": "7", 
+  "hour_filename": "T50-d7-hour", 
+  "day_listing": "T50-d7 Thu 20 Dec 18:00:00 UTC 2018 to Fri 21 Dec 17:59:59 UTC 2018", 
+  "day_title": "Tournament 50, Day 7", 
+  "day_subtitle": "Thu 20 Dec 18:00:00 UTC 2018 to Fri 21 Dec 17:59:59 UTC 2018", 
+  "day_filename": "T50-d7", 
+  "day_url": "/tournaments/2018/12/20/T50-d7.html", 
+  "week_listing": "Tournament 50", 
+  "week_title": "Tournament 50", 
+  "week_subtitle": "Fri 14 Dec 18:00:00 UTC 2018 to Fri 21 Dec 17:59:59 UTC 2018", 
+  "week_filename": "T50", 
+  "week_url": "/tournaments/2018/12/14/T50.html", 
+  "schedule": [
+    {"day": "1", "start": "Fri 14 Dec 18:00:00 UTC 2018", "stop": "Sat 15 Dec 17:59:59 UTC 2018"}, 
+    {"day": "2", "start": "Sat 15 Dec 18:00:00 UTC 2018", "stop": "Sun 16 Dec 17:59:59 UTC 2018"}, 
+    {"day": "3", "start": "Sun 16 Dec 18:00:00 UTC 2018", "stop": "Mon 17 Dec 17:59:59 UTC 2018"}, 
+    {"day": "4", "start": "Mon 17 Dec 18:00:00 UTC 2018", "stop": "Tue 18 Dec 17:59:59 UTC 2018"}, 
+    {"day": "5", "start": "Tue 18 Dec 18:00:00 UTC 2018", "stop": "Wed 19 Dec 17:59:59 UTC 2018"}, 
+    {"day": "6", "start": "Wed 19 Dec 18:00:00 UTC 2018", "stop": "Thu 20 Dec 17:59:59 UTC 2018"}, 
+    {"day": "7", "start": "Thu 20 Dec 18:00:00 UTC 2018", "stop": "Fri 21 Dec 17:59:59 UTC 2018"}
+  ], 
+},
+"columns": [
+  {"col": "COL1", "label": "day 1", "start": "Fri 14 Dec 18:00:00 UTC 2018", "stop": "Sat 15 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/14/T50-d1.html"},
+  {"col": "COL2", "label": "day 2", "start": "Sat 15 Dec 18:00:00 UTC 2018", "stop": "Sun 16 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/15/T50-d2.html"},
+  {"col": "COL3", "label": "day 3", "start": "Sun 16 Dec 18:00:00 UTC 2018", "stop": "Mon 17 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/16/T50-d3.html"},
+  {"col": "COL4", "label": "day 4", "start": "Mon 17 Dec 18:00:00 UTC 2018", "stop": "Tue 18 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/17/T50-d4.html"},
+  {"col": "COL5", "label": "day 5", "start": "Tue 18 Dec 18:00:00 UTC 2018", "stop": "Wed 19 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/18/T50-d5.html"},
+  {"col": "COL6", "label": "day 6", "start": "Wed 19 Dec 18:00:00 UTC 2018", "stop": "Thu 20 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/19/T50-d6.html"},
+  {"col": "COL7", "label": "day 7", "start": "Thu 20 Dec 18:00:00 UTC 2018", "stop": "Fri 21 Dec 17:59:59 UTC 2018", "url": "/tournaments/2018/12/20/T50-d7.html"}
+], 
+"entries": [
+],
+"commentary": [
+]
+}
