@@ -1,8 +1,8 @@
 {
 "FULLDATEtime": "", 
-"FULLDATE": "Wed 16 Jan 07:15:12 UTC 2019", 
-"datetime": "2019-01-16 07:15:12", 
-"timestamp": "20190116071512", 
+"FULLDATE": "Wed 16 Jan 07:30:12 UTC 2019", 
+"datetime": "2019-01-16 07:30:12", 
+"timestamp": "20190116073012", 
 "daymonthyear": "Wednesday 16 January 2019", 
 "YYYY": "2019", 
 "MM": "01", 
@@ -11,10 +11,10 @@
 "update_window": "0700-0759", 
 "update_number": "02", 
 "update_frequency": "05", 
-"update_at": "07:15", 
-"update_timestamp": "07:20", 
-"update_window_start": "04:30", 
-"update_window_stop": "07:30", 
+"update_at": "07:30", 
+"update_timestamp": "07:35", 
+"update_window_start": "04:45", 
+"update_window_stop": "07:45", 
 "tournament": {
   "tournament_year": "2019", 
   "tournament_week": "2", 
@@ -41,31 +41,31 @@
   ], 
 },
 "columns": [
-  {"col": "COL1", "label": "04:30", "start": "Wed Jan 16 04:30:00 UTC 2019", "stop": "Wed Jan 16 04:44:59 UTC 2019", "url": ""},
-  {"col": "COL2", "label": "04:45", "start": "Wed Jan 16 04:45:00 UTC 2019", "stop": "Wed Jan 16 04:59:59 UTC 2019", "url": ""},
-  {"col": "COL3", "label": "05:00", "start": "Wed Jan 16 05:00:00 UTC 2019", "stop": "Wed Jan 16 05:14:59 UTC 2019", "url": ""},
-  {"col": "COL4", "label": "05:15", "start": "Wed Jan 16 05:15:00 UTC 2019", "stop": "Wed Jan 16 05:29:59 UTC 2019", "url": ""},
-  {"col": "COL5", "label": "05:30", "start": "Wed Jan 16 05:30:00 UTC 2019", "stop": "Wed Jan 16 05:44:59 UTC 2019", "url": ""},
-  {"col": "COL6", "label": "05:45", "start": "Wed Jan 16 05:45:00 UTC 2019", "stop": "Wed Jan 16 05:59:59 UTC 2019", "url": ""},
-  {"col": "COL7", "label": "06:00", "start": "Wed Jan 16 06:00:00 UTC 2019", "stop": "Wed Jan 16 06:14:59 UTC 2019", "url": ""},
-  {"col": "COL8", "label": "06:15", "start": "Wed Jan 16 06:15:00 UTC 2019", "stop": "Wed Jan 16 06:29:59 UTC 2019", "url": ""},
-  {"col": "COL9", "label": "06:30", "start": "Wed Jan 16 06:30:00 UTC 2019", "stop": "Wed Jan 16 06:44:59 UTC 2019", "url": ""},
-  {"col": "COL10", "label": "06:45", "start": "Wed Jan 16 06:45:00 UTC 2019", "stop": "Wed Jan 16 06:59:59 UTC 2019", "url": ""},
-  {"col": "COL11", "label": "07:00", "start": "Wed Jan 16 07:00:00 UTC 2019", "stop": "Wed Jan 16 07:14:59 UTC 2019", "url": ""},
-  {"col": "COL12", "label": "07:15", "start": "Wed Jan 16 07:15:00 UTC 2019", "stop": "Wed Jan 16 07:29:59 UTC 2019", "url": ""}
+  {"col": "COL1", "label": "04:45", "start": "Wed Jan 16 04:45:00 UTC 2019", "stop": "Wed Jan 16 04:59:59 UTC 2019", "url": ""},
+  {"col": "COL2", "label": "05:00", "start": "Wed Jan 16 05:00:00 UTC 2019", "stop": "Wed Jan 16 05:14:59 UTC 2019", "url": ""},
+  {"col": "COL3", "label": "05:15", "start": "Wed Jan 16 05:15:00 UTC 2019", "stop": "Wed Jan 16 05:29:59 UTC 2019", "url": ""},
+  {"col": "COL4", "label": "05:30", "start": "Wed Jan 16 05:30:00 UTC 2019", "stop": "Wed Jan 16 05:44:59 UTC 2019", "url": ""},
+  {"col": "COL5", "label": "05:45", "start": "Wed Jan 16 05:45:00 UTC 2019", "stop": "Wed Jan 16 05:59:59 UTC 2019", "url": ""},
+  {"col": "COL6", "label": "06:00", "start": "Wed Jan 16 06:00:00 UTC 2019", "stop": "Wed Jan 16 06:14:59 UTC 2019", "url": ""},
+  {"col": "COL7", "label": "06:15", "start": "Wed Jan 16 06:15:00 UTC 2019", "stop": "Wed Jan 16 06:29:59 UTC 2019", "url": ""},
+  {"col": "COL8", "label": "06:30", "start": "Wed Jan 16 06:30:00 UTC 2019", "stop": "Wed Jan 16 06:44:59 UTC 2019", "url": ""},
+  {"col": "COL9", "label": "06:45", "start": "Wed Jan 16 06:45:00 UTC 2019", "stop": "Wed Jan 16 06:59:59 UTC 2019", "url": ""},
+  {"col": "COL10", "label": "07:00", "start": "Wed Jan 16 07:00:00 UTC 2019", "stop": "Wed Jan 16 07:14:59 UTC 2019", "url": ""},
+  {"col": "COL11", "label": "07:15", "start": "Wed Jan 16 07:15:00 UTC 2019", "stop": "Wed Jan 16 07:29:59 UTC 2019", "url": ""},
+  {"col": "COL12", "label": "07:30", "start": "Wed Jan 16 07:30:00 UTC 2019", "stop": "Wed Jan 16 07:44:59 UTC 2019", "url": ""}
 ], 
 "entries": [
-  {"pos": "1", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "3", "1p": "1", "2c": "7", "2p": "1", "3c": "8", "3p": "1", "4c": "", "4p": "", "5c": "7", "5p": "1", "6c": "4", "6p": "2", "7c": "2", "7p": "2", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "3", "10p": "3", "11c": "", "11p": "", "12c": "", "12p": "", "total": "34"}, 
-  {"pos": "2", "name": "Shiny!", "world": "Anvil Rock", "1c": "", "1p": "", "2c": "1", "2p": "2", "3c": "4", "3p": "2", "4c": "4", "4p": "1", "5c": "1", "5p": "2", "6c": "8", "6p": "1", "7c": "4", "7p": "1", "8c": "", "8p": "", "9c": "1", "9p": "3", "10c": "3", "10p": "3", "11c": "", "11p": "", "12c": "", "12p": "", "total": "26"}, 
-  {"pos": "3", "name": "Darth Maul", "world": "Aurora Glade", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "1", "7p": "3", "8c": "2", "8p": "1", "9c": "4", "9p": "1", "10c": "7", "10p": "2", "11c": "8", "11p": "1", "12c": "", "12p": "", "total": "22"}, 
-  {"pos": "4", "name": "All Action Hero", "world": "Blackgate", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "4", "7p": "1", "8c": "2", "8p": "1", "9c": "4", "9p": "1", "10c": "3", "10p": "3", "11c": "3", "11p": "2", "12c": "", "12p": "", "total": "16"}, 
-  {"pos": "5", "name": "Oh So Cute", "world": "Blacktide", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "2", "7p": "2", "8c": "", "8p": "", "9c": "3", "9p": "2", "10c": "9", "10p": "1", "11c": "", "11p": "", "12c": "", "12p": "", "total": "14"}, 
-  {"pos": "6", "name": "Quaggan", "world": "Crystal Desert", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "3", "11p": "2", "12c": "", "12p": "", "total": "3"}, 
-  {"pos": "7", "name": "E'telekeli", "world": "Borlis Pass", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "", "10p": "", "11c": "2", "11p": "3", "12c": "", "12p": "", "total": "2"}
+  {"pos": "1", "name": "Skritt Forager", "world": "Abaddon's Mouth", "1c": "7", "1p": "1", "2c": "8", "2p": "1", "3c": "", "3p": "", "4c": "7", "4p": "1", "5c": "4", "5p": "2", "6c": "2", "6p": "2", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "3", "9p": "3", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "31"}, 
+  {"pos": "2", "name": "Shiny!", "world": "Anvil Rock", "1c": "1", "1p": "2", "2c": "4", "2p": "2", "3c": "4", "3p": "1", "4c": "1", "4p": "2", "5c": "8", "5p": "1", "6c": "4", "6p": "1", "7c": "", "7p": "", "8c": "1", "8p": "3", "9c": "3", "9p": "3", "10c": "", "10p": "", "11c": "", "11p": "", "12c": "", "12p": "", "total": "26"}, 
+  {"pos": "3", "name": "Darth Maul", "world": "Aurora Glade", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "1", "6p": "3", "7c": "2", "7p": "1", "8c": "4", "8p": "1", "9c": "7", "9p": "2", "10c": "8", "10p": "1", "11c": "2", "11p": "3", "12c": "", "12p": "", "total": "24"}, 
+  {"pos": "4", "name": "All Action Hero", "world": "Blackgate", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "4", "6p": "1", "7c": "2", "7p": "1", "8c": "4", "8p": "1", "9c": "3", "9p": "3", "10c": "3", "10p": "2", "11c": "3", "11p": "2", "12c": "", "12p": "", "total": "19"}, 
+  {"pos": "4", "name": "Oh So Cute", "world": "Blacktide", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "2", "6p": "2", "7c": "", "7p": "", "8c": "3", "8p": "2", "9c": "9", "9p": "1", "10c": "", "10p": "", "11c": "5", "11p": "1", "12c": "", "12p": "", "total": "19"}, 
+  {"pos": "5", "name": "Quaggan", "world": "Crystal Desert", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "3", "10p": "2", "11c": "3", "11p": "2", "12c": "", "12p": "", "total": "6"}, 
+  {"pos": "6", "name": "E'telekeli", "world": "Borlis Pass", "1c": "", "1p": "", "2c": "", "2p": "", "3c": "", "3p": "", "4c": "", "4p": "", "5c": "", "5p": "", "6c": "", "6p": "", "7c": "", "7p": "", "8c": "", "8p": "", "9c": "", "9p": "", "10c": "2", "10p": "3", "11c": "3", "11p": "2", "12c": "", "12p": "", "total": "5"}
 ],
 "commentary": [
-  {"comment": "1st place, with 34 kills in 2.5 hours of play is Skritt Forager from Abaddon's Mouth"},
+  {"comment": "1st place, with 31 kills in 2 hours of play is Skritt Forager from Abaddon's Mouth"},
   {"comment": "2nd place, with 26 kills in 2.5 hours of play is Shiny! from Anvil Rock"},
-  {"comment": "3rd place, with 22 kills in 2 hours of play is Darth Maul from Aurora Glade"}
+  {"comment": "3rd place, with 24 kills in 2 hours of play is Darth Maul from Aurora Glade"}
 ]
 }
