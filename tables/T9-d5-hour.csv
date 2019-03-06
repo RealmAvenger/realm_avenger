@@ -1,7 +1,7 @@
 1,Quaggan,Crystal_Desert,10,1,4,4,7,2,7,1,11,1,8,2,7,2,,,,,,,,,,,54
 2,Daisy_Duck,Dragonbrand,,,7,2,5,4,3,4,1,6,6,3,8,1,3,3,5,3,3,3,6,1,,,47
 3,Goofy,Drakkar_Lake,3,4,2,5,1,7,4,3,3,5,4,4,,,6,1,9,2,6,1,3,2,3,3,44
-4,Nightwing,Blackgate,,,,,,,4,3,5,3,,,8,1,2,4,11,1,2,4,1,3,3,3,36
+4,Nightwing,Blackgate,,,,,,,4,3,5,3,,,8,1,2,4,11,1,2,4,1,3,5,1,38
 5,Lightning_Bug,Arborstone,3,4,8,1,9,1,3,4,4,4,4,4,2,3,,,,,,,,,,,33
 6,Bob_the_Dog,Yak's_Bend,,,,,,,,,,,,,,,4,2,5,3,4,2,6,1,5,1,24
 7,Cry_of_Frustration,Augury_Rock,,,1,6,4,5,2,5,7,2,9,1,,,,,,,,,,,,,23
@@ -11,5 +11,7 @@
 11,E'telekeli,Borlis_Pass,4,3,5,3,3,6,,,,,,,,,,,,,,,,,,,12
 12,Janie's_Got_a_Gun,Desolation,2,5,,,9,1,,,,,,,,,,,,,,,,,,,11
 13,biot.4721,Gandara,,,,,,,5,2,,,,,,,,,,,,,,,,,5
-14,Garfield,Ehmry_Bay,,,,,,,,,,,,,,,,,,,,,,,4,2,4
-15,Road_Runner,Elona_Reach,,,,,,,,,,,,,,,,,,,,,,,2,4,2
+13,Garfield,Ehmry_Bay,,,,,,,,,,,,,,,,,,,,,,,5,1,5
+14,Road_Runner,Elona_Reach,,,,,,,,,,,,,,,,,,,,,,,4,2,4
+14,Starman,Blackgate,,,,,,,,,,,,,,,,,,,,,,,4,2,4
+15,Yogi_Bear,Far_Shiverpeaks,,,,,,,,,,,,,,,,,,,,,,,3,3,3
